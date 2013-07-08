@@ -1,0 +1,4199 @@
+[
+    {
+        "color": "blue",
+        "verbose_name": "Weather Stations",
+        "stations": [
+            {
+                "lat": 10.589,
+                "url": "/aws/negrosoccidentalfelisabacolodcity_vaisala/",
+                "lng": 122.972,
+                "verbose_name": "Felisa, Bacolod City, Negros Occidental",
+                "station_id": "negrosoccidentalfelisabacolodcity_vaisala"
+            },
+            {
+                "lat": 10.772231,
+                "url": "/aws/iloilojaro_vaisala/",
+                "lng": 122.579189,
+                "verbose_name": "Jaro, Iloilo",
+                "station_id": "iloilojaro_vaisala"
+            },
+            {
+                "lat": 6.05314,
+                "url": "/aws/sulubrgysanraymundojolo_vaisala/",
+                "lng": 121.007,
+                "verbose_name": "Brgy San Raymundo, Jolo, Sulu",
+                "station_id": "sulubrgysanraymundojolo_vaisala"
+            },
+            {
+                "lat": 11.697194,
+                "url": "/aws/aklankalibo_vaisala/",
+                "lng": 122.055556,
+                "verbose_name": "Kalibo, Aklan",
+                "station_id": "aklankalibo_vaisala"
+            },
+            {
+                "lat": 11.900297,
+                "url": "/aws/aklanmalay_vaisala/",
+                "lng": 121.917444,
+                "verbose_name": "Malay, Aklan",
+                "station_id": "aklanmalay_vaisala"
+            },
+            {
+                "lat": 10.659667,
+                "url": "/aws/iloiloguimbal_vaisala/",
+                "lng": 122.320472,
+                "verbose_name": "Guimbal, Iloilo",
+                "station_id": "iloiloguimbal_vaisala"
+            },
+            {
+                "lat": 13.854639,
+                "url": "/aws/batangascalatagan_vaisala/",
+                "lng": 120.632222,
+                "verbose_name": "Calatagan, Batangas",
+                "station_id": "batangascalatagan_vaisala"
+            },
+            {
+                "lat": 14.087681,
+                "url": "/aws/batangasambulongtanauancity_vaisala/",
+                "lng": 121.062478,
+                "verbose_name": "Ambulong, Tanauan City, Batangas",
+                "station_id": "batangasambulongtanauancity_vaisala"
+            },
+            {
+                "lat": 14.494444,
+                "url": "/aws/cavitesangleypointcavitecity_vaisala/",
+                "lng": 120.899222,
+                "verbose_name": "Sangley Point, Cavite City, Cavite",
+                "station_id": "cavitesangleypointcavitecity_vaisala"
+            },
+            {
+                "lat": 10.512519,
+                "url": "/aws/guimarasnuevavalencia_vaisala/",
+                "lng": 122.523911,
+                "verbose_name": "Nueva Valencia, Guimaras",
+                "station_id": "guimarasnuevavalencia_vaisala"
+            },
+            {
+                "lat": 14.696847,
+                "url": "/aws/quezonjomalig_vaisala/",
+                "lng": 122.338889,
+                "verbose_name": "Jomalig, Quezon",
+                "station_id": "quezonjomalig_vaisala"
+            },
+            {
+                "lat": 14.55138,
+                "url": "/aws/quezoninfanta_vaisala/",
+                "lng": 121.48287,
+                "verbose_name": "Infanta, Quezon",
+                "station_id": "quezoninfanta_vaisala"
+            },
+            {
+                "lat": 13.346306,
+                "url": "/aws/quezonsanfrancisco_vaisala/",
+                "lng": 122.530833,
+                "verbose_name": "San Francisco, Quezon",
+                "station_id": "quezonsanfrancisco_vaisala"
+            },
+            {
+                "lat": 13.602,
+                "url": "/aws/quezoncatanauan_vaisala/",
+                "lng": 122.295,
+                "verbose_name": "Catanauan, Quezon",
+                "station_id": "quezoncatanauan_vaisala"
+            },
+            {
+                "lat": 14.018078,
+                "url": "/aws/quezontayabas_vaisala/",
+                "lng": 121.596672,
+                "verbose_name": "Tayabas, Quezon",
+                "station_id": "quezontayabas_vaisala"
+            },
+            {
+                "lat": 15.220861,
+                "url": "/aws/pampangamagalang_vaisala/",
+                "lng": 121.69425,
+                "verbose_name": "Magalang, Pampanga",
+                "station_id": "pampangamagalang_vaisala"
+            },
+            {
+                "lat": 13.782167,
+                "url": "/aws/camarinessurcaramoan_vaisala/",
+                "lng": 123.957389,
+                "verbose_name": "Caramoan, Camarines Sur",
+                "station_id": "camarinessurcaramoan_vaisala"
+            },
+            {
+                "lat": 13.823667,
+                "url": "/aws/camarinessurragay_vaisala/",
+                "lng": 122.733194,
+                "verbose_name": "Ragay, Camarines Sur",
+                "station_id": "camarinessurragay_vaisala"
+            },
+            {
+                "lat": 13.8845,
+                "url": "/aws/camarinessurgarchitorena_vaisala/",
+                "lng": 123.700389,
+                "verbose_name": "Garchitorena, Camarines Sur",
+                "station_id": "camarinessurgarchitorena_vaisala"
+            },
+            {
+                "lat": 8.234278,
+                "url": "/aws/zamboangadelnortesindangan_vaisala/",
+                "lng": 122.999306,
+                "verbose_name": "Sindangan, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortesindangan_vaisala"
+            },
+            {
+                "lat": 8.459917,
+                "url": "/aws/misamisoccidentaloroquietacity_vaisala/",
+                "lng": 123.743361,
+                "verbose_name": "Oroquieta City, Misamis Occidental",
+                "station_id": "misamisoccidentaloroquietacity_vaisala"
+            },
+            {
+                "lat": 7.7383,
+                "url": "/aws/zamboangasibugaybuug_vaisala/",
+                "lng": 123.064,
+                "verbose_name": "Buug, Zamboanga Sibugay",
+                "station_id": "zamboangasibugaybuug_vaisala"
+            },
+            {
+                "lat": 7.5239,
+                "url": "/aws/zamboangadelsurvicenzoasagun_vaisala/",
+                "lng": 123.186,
+                "verbose_name": "Vicenzo A. Sagun, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurvicenzoasagun_vaisala"
+            },
+            {
+                "lat": 8.0967,
+                "url": "/aws/zamboangadelsurmolave_vaisala/",
+                "lng": 123.486,
+                "verbose_name": "Molave, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurmolave_vaisala"
+            },
+            {
+                "lat": 7.1279,
+                "url": "/aws/davaocitypagasa_vaisala/",
+                "lng": 125.655,
+                "verbose_name": "Pagasa, Davao City",
+                "station_id": "davaocitypagasa_vaisala"
+            },
+            {
+                "lat": 11.166528,
+                "url": "/aws/cebubantayan_vaisala/",
+                "lng": 123.716861,
+                "verbose_name": "Bantayan, Cebu",
+                "station_id": "cebubantayan_vaisala"
+            },
+            {
+                "lat": 10.322383,
+                "url": "/aws/cebumactan_vaisala/",
+                "lng": 123.980222,
+                "verbose_name": "Mactan, Cebu",
+                "station_id": "cebumactan_vaisala"
+            },
+            {
+                "lat": 11.864,
+                "url": "/aws/palawancoron_vaisala/",
+                "lng": 120.249,
+                "verbose_name": "Coron, Palawan",
+                "station_id": "palawancoron_vaisala"
+            },
+            {
+                "lat": 12.5055,
+                "url": "/aws/northernsamarcatarman_vaisala/",
+                "lng": 124.628611,
+                "verbose_name": "Catarman, Northern Samar",
+                "station_id": "northernsamarcatarman_vaisala"
+            },
+            {
+                "lat": 14.435583,
+                "url": "/aws/bataanmariveles_vaisala/",
+                "lng": 120.499167,
+                "verbose_name": "Mariveles, Bataan",
+                "station_id": "bataanmariveles_vaisala"
+            },
+            {
+                "lat": 14.676167,
+                "url": "/aws/bataanbalanga_vaisala/",
+                "lng": 120.517889,
+                "verbose_name": "Balanga, Bataan",
+                "station_id": "bataanbalanga_vaisala"
+            },
+            {
+                "lat": 7.008,
+                "url": "/aws/zamboangacityzamboangacity_vaisala/",
+                "lng": 121.923,
+                "verbose_name": "Zamboanga City, Zamboanga City",
+                "station_id": "zamboangacityzamboangacity_vaisala"
+            },
+            {
+                "lat": 7.589194,
+                "url": "/aws/zamboangadelnortesirawai_vaisala/",
+                "lng": 122.15075,
+                "verbose_name": "Sirawai, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortesirawai_vaisala"
+            },
+            {
+                "lat": 5.046167,
+                "url": "/aws/tawitawitawitawi_vaisala/",
+                "lng": 119.74125,
+                "verbose_name": "Tawi-Tawi, Tawi-Tawi",
+                "station_id": "tawitawitawitawi_vaisala"
+            },
+            {
+                "lat": 15.493,
+                "url": "/aws/nuevaecijacabanatuancity_vaisala/",
+                "lng": 120.971,
+                "verbose_name": "Cabanatuan City, Nueva Ecija",
+                "station_id": "nuevaecijacabanatuancity_vaisala"
+            },
+            {
+                "lat": 16.1453,
+                "url": "/aws/auroradinalungan_vaisala/",
+                "lng": 121.9564,
+                "verbose_name": "Dinalungan, Aurora",
+                "station_id": "auroradinalungan_vaisala"
+            },
+            {
+                "lat": 15.3908,
+                "url": "/aws/auroradingalan_vaisala/",
+                "lng": 121.3882,
+                "verbose_name": "Dingalan, Aurora",
+                "station_id": "auroradingalan_vaisala"
+            },
+            {
+                "lat": 8.687528,
+                "url": "/aws/palawanbataraza_vaisala/",
+                "lng": 117.643778,
+                "verbose_name": "Bataraza, Palawan",
+                "station_id": "palawanbataraza_vaisala"
+            },
+            {
+                "lat": 11.272,
+                "url": "/aws/palawanelnido_vaisala/",
+                "lng": 119.517,
+                "verbose_name": "El Nido, Palawan",
+                "station_id": "palawanelnido_vaisala"
+            },
+            {
+                "lat": 12.397278,
+                "url": "/aws/romblonodiongan_vaisala/",
+                "lng": 121.985,
+                "verbose_name": "Odiongan, Romblon",
+                "station_id": "romblonodiongan_vaisala"
+            },
+            {
+                "lat": 13.813892,
+                "url": "/aws/camarinessurtinambac_vaisala/",
+                "lng": 123.340575,
+                "verbose_name": "Tinambac, Camarines Sur",
+                "station_id": "camarinessurtinambac_vaisala"
+            },
+            {
+                "lat": 11.225417,
+                "url": "/aws/leytetaclobancity_vaisala/",
+                "lng": 125.024972,
+                "verbose_name": "Tacloban City, Leyte",
+                "station_id": "leytetaclobancity_vaisala"
+            },
+            {
+                "lat": 10.322917,
+                "url": "/aws/southernleytestbernard_vaisala/",
+                "lng": 125.117111,
+                "verbose_name": "St. Bernard, Southern Leyte",
+                "station_id": "southernleytestbernard_vaisala"
+            },
+            {
+                "lat": 10.197306,
+                "url": "/aws/southernleytemaasincity_vaisala/",
+                "lng": 124.845194,
+                "verbose_name": "Maasin City, Southern Leyte",
+                "station_id": "southernleytemaasincity_vaisala"
+            },
+            {
+                "lat": 11.775139,
+                "url": "/aws/samarcatbalogancity_vaisala/",
+                "lng": 124.88436,
+                "verbose_name": "Catbalogan City, Samar",
+                "station_id": "samarcatbalogancity_vaisala"
+            },
+            {
+                "lat": 11.15525,
+                "url": "/aws/easternsamarsalcedo_vaisala/",
+                "lng": 125.639361,
+                "verbose_name": "Salcedo, Eastern Samar",
+                "station_id": "easternsamarsalcedo_vaisala"
+            },
+            {
+                "lat": 17.369889,
+                "url": "/aws/ilocossurstamaria_vaisala/",
+                "lng": 120.473583,
+                "verbose_name": "Sta Maria, Ilocos Sur",
+                "station_id": "ilocossurstamaria_vaisala"
+            },
+            {
+                "lat": 18.589778,
+                "url": "/aws/ilocosnortepagudpud_vaisala/",
+                "lng": 120.78475,
+                "verbose_name": "Pagudpud, Ilocos Norte",
+                "station_id": "ilocosnortepagudpud_vaisala"
+            },
+            {
+                "lat": 16.603889,
+                "url": "/aws/quirinodiffun_vaisala/",
+                "lng": 121.143333,
+                "verbose_name": "Diffun, Quirino",
+                "station_id": "quirinodiffun_vaisala"
+            },
+            {
+                "lat": 18.457,
+                "url": "/aws/cagayanstaana_vaisala/",
+                "lng": 122.143,
+                "verbose_name": "Sta Ana, Cagayan",
+                "station_id": "cagayanstaana_vaisala"
+            },
+            {
+                "lat": 11.455472,
+                "url": "/aws/iloiloestancia_vaisala/",
+                "lng": 123.147278,
+                "verbose_name": "Estancia, Iloilo",
+                "station_id": "iloiloestancia_vaisala"
+            },
+            {
+                "lat": 17.603306,
+                "url": "/aws/abrabangued_vaisala/",
+                "lng": 120.614083,
+                "verbose_name": "Bangued, Abra",
+                "station_id": "abrabangued_vaisala"
+            },
+            {
+                "lat": 8.947538,
+                "url": "/aws/agusandelnortebutuan_vaisala/",
+                "lng": 125.540623,
+                "verbose_name": "Butuan, Agusan Del Norte",
+                "station_id": "agusandelnortebutuan_vaisala"
+            },
+            {
+                "lat": 7.983333,
+                "url": "/aws/agusandelsursantajosefa_vaisala/",
+                "lng": 126.033333,
+                "verbose_name": "Santa Josefa, Agusan Del Sur",
+                "station_id": "agusandelsursantajosefa_vaisala"
+            },
+            {
+                "lat": 8.731382,
+                "url": "/aws/surigaodelsursanagustin_vaisala/",
+                "lng": 126.202814,
+                "verbose_name": "San Agustin, Surigao Del Sur",
+                "station_id": "surigaodelsursanagustin_vaisala"
+            },
+            {
+                "lat": 8.213136,
+                "url": "/aws/surigaodelsurbisligcity_vaisala/",
+                "lng": 126.315939,
+                "verbose_name": "Bislig City, Surigao Del Sur",
+                "station_id": "surigaodelsurbisligcity_vaisala"
+            },
+            {
+                "lat": 7.63291,
+                "url": "/aws/davaoorientalbaganga_vaisala/",
+                "lng": 126.536683,
+                "verbose_name": "Baganga, Davao Oriental",
+                "station_id": "davaoorientalbaganga_vaisala"
+            },
+            {
+                "lat": 15.327,
+                "url": "/aws/zambalesiba_vaisala/",
+                "lng": 119.968,
+                "verbose_name": "Iba, Zambales",
+                "station_id": "zambalesiba_vaisala"
+            },
+            {
+                "lat": 16.0436287,
+                "url": "/aws/pangasinandagupan_vaisala/",
+                "lng": 120.343506,
+                "verbose_name": "Dagupan, Pangasinan",
+                "station_id": "pangasinandagupan_vaisala"
+            },
+            {
+                "lat": 8.583333,
+                "url": "/aws/zamboangadelnortedipologcity_vaisala/",
+                "lng": 123.333333,
+                "verbose_name": "Dipolog City, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortedipologcity_vaisala"
+            },
+            {
+                "lat": 10.021806,
+                "url": "/aws/boholubay_vaisala/",
+                "lng": 124.462722,
+                "verbose_name": "Ubay, Bohol",
+                "station_id": "boholubay_vaisala"
+            },
+            {
+                "lat": 9.754972,
+                "url": "/aws/negrosoccidentalsipalaycity_vaisala/",
+                "lng": 122.399556,
+                "verbose_name": "Sipalay City, Negros Occidental",
+                "station_id": "negrosoccidentalsipalaycity_vaisala"
+            },
+            {
+                "lat": 10.877722,
+                "url": "/aws/negrosoccidentalsagaycity_vaisala/",
+                "lng": 123.411167,
+                "verbose_name": "Sagay City, Negros Occidental",
+                "station_id": "negrosoccidentalsagaycity_vaisala"
+            },
+            {
+                "lat": 10.005444,
+                "url": "/aws/negrosoccidentalkabankalancity_vaisala/",
+                "lng": 122.852778,
+                "verbose_name": "Kabankalan City, Negros Occidental",
+                "station_id": "negrosoccidentalkabankalancity_vaisala"
+            },
+            {
+                "lat": 10.51025,
+                "url": "/aws/negrosoccidentalsancarloscity_vaisala/",
+                "lng": 123.435583,
+                "verbose_name": "San Carlos City, Negros Occidental",
+                "station_id": "negrosoccidentalsancarloscity_vaisala"
+            },
+            {
+                "lat": 7.83,
+                "url": "/aws/zamboangadelsurpagadiancity_vaisala/",
+                "lng": 123.462,
+                "verbose_name": "Pagadian City, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurpagadiancity_vaisala"
+            },
+            {
+                "lat": 6.101278,
+                "url": "/aws/saranganialabel_vaisala/",
+                "lng": 125.273083,
+                "verbose_name": "Alabel, Sarangani",
+                "station_id": "saranganialabel_vaisala"
+            },
+            {
+                "lat": 11.175139,
+                "url": "/aws/iloiloajuy_vaisala/",
+                "lng": 123.023389,
+                "verbose_name": "Ajuy, Iloilo",
+                "station_id": "iloiloajuy_vaisala"
+            },
+            {
+                "lat": 9.757131,
+                "url": "/aws/surigaodelnortesiargaoisland_vaisala/",
+                "lng": 125.513767,
+                "verbose_name": "Siargao Island, Surigao Del Norte",
+                "station_id": "surigaodelnortesiargaoisland_vaisala"
+            },
+            {
+                "lat": 12.2805,
+                "url": "/aws/masbatemandaon_vaisala/",
+                "lng": 123.355556,
+                "verbose_name": "Mandaon, Masbate",
+                "station_id": "masbatemandaon_vaisala"
+            },
+            {
+                "lat": 13.456861,
+                "url": "/aws/albaytiwi_vaisala/",
+                "lng": 123.680056,
+                "verbose_name": "Tiwi, Albay",
+                "station_id": "albaytiwi_vaisala"
+            },
+            {
+                "lat": 13.139062,
+                "url": "/aws/albaylegazpicity_vaisala/",
+                "lng": 123.743799,
+                "verbose_name": "Legazpi City, Albay",
+                "station_id": "albaylegazpicity_vaisala"
+            },
+            {
+                "lat": 13.2995,
+                "url": "/aws/albaylibon_vaisala/",
+                "lng": 123.436889,
+                "verbose_name": "Libon, Albay",
+                "station_id": "albaylibon_vaisala"
+            },
+            {
+                "lat": 12.867333,
+                "url": "/aws/sorsogonbarcelona_vaisala/",
+                "lng": 124.14425,
+                "verbose_name": "Barcelona, Sorsogon",
+                "station_id": "sorsogonbarcelona_vaisala"
+            },
+            {
+                "lat": 6.055425,
+                "url": "/aws/generalsantoscitygeneralsantoscity_vaisala/",
+                "lng": 125.097478,
+                "verbose_name": "General Santos City, General Santos City",
+                "station_id": "generalsantoscitygeneralsantoscity_vaisala"
+            },
+            {
+                "lat": 6.221722,
+                "url": "/aws/sultankudaratpalimbang_vaisala/",
+                "lng": 124.207,
+                "verbose_name": "Palimbang, Sultan Kudarat",
+                "station_id": "sultankudaratpalimbang_vaisala"
+            },
+            {
+                "lat": 7.196167,
+                "url": "/aws/cotabatocotabatocity_vaisala/",
+                "lng": 124.235167,
+                "verbose_name": "Cotabato City, Cotabato",
+                "station_id": "cotabatocotabatocity_vaisala"
+            },
+            {
+                "lat": 13.324,
+                "url": "/aws/orientalmindoronaujan_vaisala/",
+                "lng": 121.308,
+                "verbose_name": "Naujan, Oriental Mindoro",
+                "station_id": "orientalmindoronaujan_vaisala"
+            },
+            {
+                "lat": 8.332417,
+                "url": "/aws/bukidnonlibona_vaisala/",
+                "lng": 124.7485,
+                "verbose_name": "Libona, Bukidnon",
+                "station_id": "bukidnonlibona_vaisala"
+            },
+            {
+                "lat": 5.916667,
+                "url": "/aws/davaodelsurjoseabadsantos_vaisala/",
+                "lng": 125.65,
+                "verbose_name": "Jose Abad Santos, Davao Del Sur",
+                "station_id": "davaodelsurjoseabadsantos_vaisala"
+            },
+            {
+                "lat": 17.091361,
+                "url": "/aws/mountainprovincebontoc_vaisala/",
+                "lng": 120.983583,
+                "verbose_name": "Bontoc, Mountain Province",
+                "station_id": "mountainprovincebontoc_vaisala"
+            },
+            {
+                "lat": 14.483333,
+                "url": "/aws/metromanilabicutantaguigcity_vaisala/",
+                "lng": 121.05,
+                "verbose_name": "Bicutan, Taguig City, Metro Manila",
+                "station_id": "metromanilabicutantaguigcity_vaisala"
+            },
+            {
+                "lat": 15.0784,
+                "url": "/aws/bulacansanildefonso_vaisala/",
+                "lng": 120.954167,
+                "verbose_name": "San Ildefonso, Bulacan",
+                "station_id": "bulacansanildefonso_vaisala"
+            },
+            {
+                "lat": 17.328194,
+                "url": "/aws/isabeladivilacan_vaisala/",
+                "lng": 122.296194,
+                "verbose_name": "Divilacan, Isabela",
+                "station_id": "isabeladivilacan_vaisala"
+            },
+            {
+                "lat": 13.920611,
+                "url": "/aws/batangaslemery_vaisala/",
+                "lng": 120.885694,
+                "verbose_name": "Lemery, Batangas",
+                "station_id": "batangaslemery_vaisala"
+            },
+            {
+                "lat": 14.275278,
+                "url": "/aws/lagunastacruz_vaisala/",
+                "lng": 121.400556,
+                "verbose_name": "Sta Cruz, Laguna",
+                "station_id": "lagunastacruz_vaisala"
+            },
+            {
+                "lat": 14.116222,
+                "url": "/aws/quezonlucban_vaisala/",
+                "lng": 121.541278,
+                "verbose_name": "Lucban, Quezon",
+                "station_id": "quezonlucban_vaisala"
+            },
+            {
+                "lat": 13.885167,
+                "url": "/aws/quezonsanantonio_vaisala/",
+                "lng": 121.311556,
+                "verbose_name": "San Antonio, Quezon",
+                "station_id": "quezonsanantonio_vaisala"
+            },
+            {
+                "lat": 16.908783,
+                "url": "/aws/launionpoblacionsudipen_vaisala/",
+                "lng": 120.462683,
+                "verbose_name": "Poblacion, Sudipen, La Union",
+                "station_id": "launionpoblacionsudipen_vaisala"
+            },
+            {
+                "lat": 15.952567,
+                "url": "/aws/pangasinanstamaria_vaisala/",
+                "lng": 120.680417,
+                "verbose_name": "Sta Maria, Pangasinan",
+                "station_id": "pangasinanstamaria_vaisala"
+            },
+            {
+                "lat": 16.068922,
+                "url": "/aws/pangasinansual_vaisala/",
+                "lng": 120.084092,
+                "verbose_name": "Sual, Pangasinan",
+                "station_id": "pangasinansual_vaisala"
+            },
+            {
+                "lat": 17.368192,
+                "url": "/aws/ilocossurstamaria_vaisala/",
+                "lng": 120.475031,
+                "verbose_name": "Sta Maria, Ilocos Sur",
+                "station_id": "ilocossurstamaria_vaisala"
+            },
+            {
+                "lat": 9.203833,
+                "url": "/aws/siquijorsiquijor_vaisala/",
+                "lng": 123.484056,
+                "verbose_name": "Siquijor, Siquijor",
+                "station_id": "siquijorsiquijor_vaisala"
+            },
+            {
+                "lat": 9.766944,
+                "url": "/aws/boholnuevavidaestecarmen_vaisala/",
+                "lng": 124.205389,
+                "verbose_name": "Nueva Vida Este, Carmen, Bohol",
+                "station_id": "boholnuevavidaestecarmen_vaisala"
+            },
+            {
+                "lat": 7.917861,
+                "url": "/aws/zamboangadelnortekalawit_vaisala/",
+                "lng": 122.531944,
+                "verbose_name": "Kalawit, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortekalawit_vaisala"
+            },
+            {
+                "lat": 8.546028,
+                "url": "/aws/zamboangadelnortepolanco_vaisala/",
+                "lng": 123.404139,
+                "verbose_name": "Polanco, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortepolanco_vaisala"
+            },
+            {
+                "lat": 8.153944,
+                "url": "/aws/zamboangadelsurdumingag_vaisala/",
+                "lng": 123.338889,
+                "verbose_name": "Dumingag, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurdumingag_vaisala"
+            },
+            {
+                "lat": 7.797222,
+                "url": "/aws/zamboangasibugaysanitoipil_vaisala/",
+                "lng": 122.603639,
+                "verbose_name": "Sanito, Ipil, Zamboanga Sibugay",
+                "station_id": "zamboangasibugaysanitoipil_vaisala"
+            },
+            {
+                "lat": 7.379278,
+                "url": "/aws/zamboangacityvitalidistrict_vaisala/",
+                "lng": 122.293444,
+                "verbose_name": "Vitali District, Zamboanga City",
+                "station_id": "zamboangacityvitalidistrict_vaisala"
+            },
+            {
+                "lat": 7.794056,
+                "url": "/aws/davaoorientalcateel_vaisala/",
+                "lng": 126.391611,
+                "verbose_name": "Cateel, Davao Oriental",
+                "station_id": "davaoorientalcateel_vaisala"
+            },
+            {
+                "lat": 6.6005,
+                "url": "/aws/davaodelsurpoblacionsulop_vaisala/",
+                "lng": 125.347806,
+                "verbose_name": "Poblacion, Sulop, Davao Del Sur",
+                "station_id": "davaodelsurpoblacionsulop_vaisala"
+            },
+            {
+                "lat": 7.289972,
+                "url": "/aws/compostelavalleymaragusan_vaisala/",
+                "lng": 126.153333,
+                "verbose_name": "Maragusan, Compostela Valley",
+                "station_id": "compostelavalleymaragusan_vaisala"
+            },
+            {
+                "lat": 6.967861,
+                "url": "/aws/davaoorientalbanaybanay_vaisala/",
+                "lng": 126.0093606,
+                "verbose_name": "Banay Banay, Davao Oriental",
+                "station_id": "davaoorientalbanaybanay_vaisala"
+            },
+            {
+                "lat": 14.600278,
+                "url": "/aws/rizaltanay_vaisala/",
+                "lng": 121.345556,
+                "verbose_name": "Tanay, Rizal",
+                "station_id": "rizaltanay_vaisala"
+            },
+            {
+                "lat": 10.919056,
+                "url": "/aws/leytedulag_vaisala/",
+                "lng": 125.010111,
+                "verbose_name": "Dulag, Leyte",
+                "station_id": "leytedulag_vaisala"
+            },
+            {
+                "lat": 7.297361,
+                "url": "/aws/cotabatopigcawayan_vaisala/",
+                "lng": 124.414917,
+                "verbose_name": "Pigcawayan, Cotabato",
+                "station_id": "cotabatopigcawayan_vaisala"
+            },
+            {
+                "lat": 11.050917,
+                "url": "/aws/palawankalayaanisland_vaisala/",
+                "lng": 114.2837,
+                "verbose_name": "Kalayaan Island, Palawan",
+                "station_id": "palawankalayaanisland_vaisala"
+            },
+            {
+                "lat": 11.42708,
+                "url": "/aws/leytebabatngon_vaisala/",
+                "lng": 124.6103,
+                "verbose_name": "Babatngon, Leyte",
+                "station_id": "leytebabatngon_vaisala"
+            },
+            {
+                "lat": 13.698333,
+                "url": "/aws/camarinessursanjose_vaisala/",
+                "lng": 123.509722,
+                "verbose_name": "San Jose, Camarines Sur",
+                "station_id": "camarinessursanjose_vaisala"
+            },
+            {
+                "lat": 8.9167,
+                "url": "/aws/palawanrangerstationtubbatahareef_vaisala/",
+                "lng": 119.9167,
+                "verbose_name": "Ranger Station, Tubbataha Reef, Palawan",
+                "station_id": "palawanrangerstationtubbatahareef_vaisala"
+            }
+        ],
+        "type": "aws",
+        "icon": "http://nababaha.appspot.com/static/img/blue.png"
+    },
+    {
+        "color": "red",
+        "verbose_name": "Stream Gauges",
+        "stations": [
+            {
+                "lat": 14.673997,
+                "url": "/asg/metromanilanangka_wl/",
+                "lng": 121.109308,
+                "verbose_name": "Nangka, Metro Manila",
+                "station_id": "metromanilanangka_wl"
+            },
+            {
+                "lat": 14.733133,
+                "url": "/asg/rizalmontalban_wl/",
+                "lng": 121.130364,
+                "verbose_name": "Montalban, Rizal",
+                "station_id": "rizalmontalban_wl"
+            },
+            {
+                "lat": 14.606994,
+                "url": "/asg/metromanilasanjuan_wl/",
+                "lng": 121.022128,
+                "verbose_name": "San Juan, Metro Manila",
+                "station_id": "metromanilasanjuan_wl"
+            },
+            {
+                "lat": 14.589558,
+                "url": "/asg/metromanilapandacan_wl/",
+                "lng": 121.012278,
+                "verbose_name": "Pandacan, Metro Manila",
+                "station_id": "metromanilapandacan_wl"
+            },
+            {
+                "lat": 14.5953,
+                "url": "/asg/metromanilafortsan_wl/",
+                "lng": 120.969742,
+                "verbose_name": "Fort San, Metro Manila",
+                "station_id": "metromanilafortsan_wl"
+            },
+            {
+                "lat": 14.526811,
+                "url": "/asg/rizalangono_wl/",
+                "lng": 121.142206,
+                "verbose_name": "Angono, Rizal",
+                "station_id": "rizalangono_wl"
+            },
+            {
+                "lat": 14.557347,
+                "url": "/asg/metromanilanapindanlspasigcity_wl/",
+                "lng": 121.067631,
+                "verbose_name": "Napindan Ls, Pasig City, Metro Manila",
+                "station_id": "metromanilanapindanlspasigcity_wl"
+            },
+            {
+                "lat": 14.635858,
+                "url": "/asg/metromanilastoninomarikinacity_wl/",
+                "lng": 121.092942,
+                "verbose_name": "Sto. Nino, Marikina City, Metro Manila",
+                "station_id": "metromanilastoninomarikinacity_wl"
+            },
+            {
+                "lat": 6.05669,
+                "url": "/asg/sulujolo_wl/",
+                "lng": 121,
+                "verbose_name": "Jolo, Sulu",
+                "station_id": "sulujolo_wl"
+            },
+            {
+                "lat": 17.614,
+                "url": "/asg/cagayanbuntunbridgetuguegaraocity_wl/",
+                "lng": 121.691,
+                "verbose_name": "Buntun Bridge, Tuguegarao City, Cagayan",
+                "station_id": "cagayanbuntunbridgetuguegaraocity_wl"
+            },
+            {
+                "lat": 20.463437,
+                "url": "/asg/batanesbasco_wl/",
+                "lng": 122.004179,
+                "verbose_name": "Basco, Batanes",
+                "station_id": "batanesbasco_wl"
+            },
+            {
+                "lat": 14.473367,
+                "url": "/asg/rizallooccardona_rwl/",
+                "lng": 121.2203,
+                "verbose_name": "Looc, Cardona, Rizal",
+                "station_id": "rizallooccardona_rwl"
+            },
+            {
+                "lat": 14.475889,
+                "url": "/asg/metromanilavillanuevabridgeparanaquecreekparanaquecity_wl/",
+                "lng": 121.001278,
+                "verbose_name": "Villanueva Bridge, Paranaque Creek, Paranaque City, Metro Manila",
+                "station_id": "metromanilavillanuevabridgeparanaquecreekparanaquecity_wl"
+            },
+            {
+                "lat": 14.541714,
+                "url": "/asg/metromanilaaguhobridgepateros_wl/",
+                "lng": 121.062447,
+                "verbose_name": "Aguho Bridge, Pateros, Metro Manila",
+                "station_id": "metromanilaaguhobridgepateros_wl"
+            },
+            {
+                "lat": 10.312847,
+                "url": "/asg/southernleytelawiganbridgestbernard_wl/",
+                "lng": 125.115875,
+                "verbose_name": "Lawigan Bridge, St. Bernard, Southern Leyte",
+                "station_id": "southernleytelawiganbridgestbernard_wl"
+            },
+            {
+                "lat": 14.656344,
+                "url": "/asg/metromanilatumanamarikinacity_wl/",
+                "lng": 121.096519,
+                "verbose_name": "Tumana, Marikina City, Metro Manila",
+                "station_id": "metromanilatumanamarikinacity_wl"
+            },
+            {
+                "lat": 14.558022,
+                "url": "/asg/metromanilanapindanjspasigcity_rwl/",
+                "lng": 121.044011,
+                "verbose_name": "Napindan Js, Pasig City, Metro Manila",
+                "station_id": "metromanilanapindanjspasigcity_rwl"
+            },
+            {
+                "lat": 14.598006,
+                "url": "/asg/metromanilarosariols_wl/",
+                "lng": 121.089753,
+                "verbose_name": "Rosario_Ls, Metro Manila",
+                "station_id": "metromanilarosariols_wl"
+            },
+            {
+                "lat": 14.727913,
+                "url": "/asg/rizalwawa_wl/",
+                "lng": 121.191932,
+                "verbose_name": "Wawa, Rizal",
+                "station_id": "rizalwawa_wl"
+            },
+            {
+                "lat": 14.475889,
+                "url": "/asg/metromanilabuendiatrashrakemakaticity_wl/",
+                "lng": 121.001278,
+                "verbose_name": "Buendia Trash Rake, Makati City, Metro Manila",
+                "station_id": "metromanilabuendiatrashrakemakaticity_wl"
+            },
+            {
+                "lat": 14.530214,
+                "url": "/asg/metromanilatripadegallinapspasaycity_wl/",
+                "lng": 121.001158,
+                "verbose_name": "Tripa De Gallina Ps, Pasay City, Metro Manila",
+                "station_id": "metromanilatripadegallinapspasaycity_wl"
+            },
+            {
+                "lat": 10.729,
+                "url": "/asg/iloilojarobridge_wl/",
+                "lng": 122.558767,
+                "verbose_name": "Jaro Bridge, Iloilo",
+                "station_id": "iloilojarobridge_wl"
+            },
+            {
+                "lat": 10.765417,
+                "url": "/asg/iloilopagsangaanbridgepavia_wl/",
+                "lng": 122.551217,
+                "verbose_name": "Pagsanga-An Bridge, Pavia, Iloilo",
+                "station_id": "iloilopagsangaanbridgepavia_wl"
+            },
+            {
+                "lat": 10.897,
+                "url": "/asg/iloilocahigonbridgebrgymaasin_wl/",
+                "lng": 122.446583,
+                "verbose_name": "Cahigon Bridge, Brgy Maasin, Iloilo",
+                "station_id": "iloilocahigonbridgebrgymaasin_wl"
+            },
+            {
+                "lat": 14.619406,
+                "url": "/asg/metromanilaerodriguezbridgequezoncity_wl/",
+                "lng": 121.016433,
+                "verbose_name": "E. Rodriguez Bridge, Quezon City, Metro Manila",
+                "station_id": "metromanilaerodriguezbridgequezoncity_wl"
+            },
+            {
+                "lat": 14.614358,
+                "url": "/asg/metromanilaesterodecalubcubcityofmanila_wl/",
+                "lng": 120.994458,
+                "verbose_name": "Estero De Calubcub, City Of Manila, Metro Manila",
+                "station_id": "metromanilaesterodecalubcubcityofmanila_wl"
+            },
+            {
+                "lat": 14.604319,
+                "url": "/asg/metromanilagaranetaquezoncity_wl/",
+                "lng": 121.020003,
+                "verbose_name": "G Araneta, Quezon City, Metro Manila",
+                "station_id": "metromanilagaranetaquezoncity_wl"
+            },
+            {
+                "lat": 14.594044,
+                "url": "/asg/metromanilasevillabridgemandaluyongcity_wl/",
+                "lng": 121.026128,
+                "verbose_name": "Sevilla Bridge, Mandaluyong City, Metro Manila",
+                "station_id": "metromanilasevillabridgemandaluyongcity_wl"
+            },
+            {
+                "lat": 14.608744,
+                "url": "/asg/metromanilaaurorabridgequezoncity_wl/",
+                "lng": 121.022022,
+                "verbose_name": "Aurora Bridge, Quezon City, Metro Manila",
+                "station_id": "metromanilaaurorabridgequezoncity_wl"
+            },
+            {
+                "lat": 14.629564,
+                "url": "/asg/metromanilaquezonavebridgequezoncity_wl/",
+                "lng": 121.015028,
+                "verbose_name": "Quezon Ave. Bridge, Quezon City, Metro Manila",
+                "station_id": "metromanilaquezonavebridgequezoncity_wl"
+            },
+            {
+                "lat": 14.630411,
+                "url": "/asg/metromanilatalayancreekquezoncity_wl/",
+                "lng": 121.011197,
+                "verbose_name": "Talayan Creek, Quezon City, Metro Manila",
+                "station_id": "metromanilatalayancreekquezoncity_wl"
+            },
+            {
+                "lat": 14.554408,
+                "url": "/asg/metromanilailungincreekpinagbuhatanpasigcity_wl/",
+                "lng": 121.092933,
+                "verbose_name": "Ilungin Creek, Pinagbuhatan, Pasig City, Metro Manila",
+                "station_id": "metromanilailungincreekpinagbuhatanpasigcity_wl"
+            },
+            {
+                "lat": 8.255123,
+                "url": "/asg/lanaodelnortemandulogbridge2iligancity_wl/",
+                "lng": 124.260275,
+                "verbose_name": "Mandulog Bridge 2, Iligan City, Lanao Del Norte",
+                "station_id": "lanaodelnortemandulogbridge2iligancity_wl"
+            },
+            {
+                "lat": 8.388667,
+                "url": "/asg/bukidnonkabulabridge_wl/",
+                "lng": 124.613611,
+                "verbose_name": "Kabula Bridge, Bukidnon",
+                "station_id": "bukidnonkabulabridge_wl"
+            },
+            {
+                "lat": 8.182306,
+                "url": "/asg/lanaodelnorteabunobridgeiligancity_wl/",
+                "lng": 124.250444,
+                "verbose_name": "Abuno Bridge, Iligan City, Lanao Del Norte",
+                "station_id": "lanaodelnorteabunobridgeiligancity_wl"
+            },
+            {
+                "lat": 14.622033,
+                "url": "/asg/metromanilaptuazoncubaoquezoncity_wl/",
+                "lng": 121.065078,
+                "verbose_name": "P. Tuazon, Cubao, Quezon City, Metro Manila",
+                "station_id": "metromanilaptuazoncubaoquezoncity_wl"
+            },
+            {
+                "lat": 14.499697,
+                "url": "/asg/metromanilakainginbridgeerodriguezextensionparanaquecity_wl/",
+                "lng": 121.008875,
+                "verbose_name": "Kaingin Bridge, E. Rodriguez Extension, Paranaque City, Metro Manila",
+                "station_id": "metromanilakainginbridgeerodriguezextensionparanaquecity_wl"
+            },
+            {
+                "lat": 14.527594,
+                "url": "/asg/metromanilatuktukanbridgetaguigcity_wl/",
+                "lng": 121.071508,
+                "verbose_name": "Tuktukan Bridge, Taguig City, Metro Manila",
+                "station_id": "metromanilatuktukanbridgetaguigcity_wl"
+            },
+            {
+                "lat": 14.708953,
+                "url": "/asg/metromanilapolobridgebrgypoblacionvalenzuelacity_wl/",
+                "lng": 120.947342,
+                "verbose_name": "Polo Bridge, Brgy Poblacion, Valenzuela City, Metro Manila",
+                "station_id": "metromanilapolobridgebrgypoblacionvalenzuelacity_wl"
+            },
+            {
+                "lat": 14.706278,
+                "url": "/asg/metromanilatullahancommonwealthavenuequezoncity_wl/",
+                "lng": 121.066628,
+                "verbose_name": "Tullahan, Commonwealth Avenue, Quezon City, Metro Manila",
+                "station_id": "metromanilatullahancommonwealthavenuequezoncity_wl"
+            },
+            {
+                "lat": 14.498969,
+                "url": "/asg/metromanilastoninobridgebrgystoninoparanaquecity_wl/",
+                "lng": 120.993942,
+                "verbose_name": "Sto Nino Bridge, Brgy Sto Nino, Paranaque City, Metro Manila",
+                "station_id": "metromanilastoninobridgebrgystoninoparanaquecity_wl"
+            },
+            {
+                "lat": 14.718567,
+                "url": "/asg/metromanilatullahanquirinohighwayquezoncity_wl/",
+                "lng": 121.039961,
+                "verbose_name": "Tullahan, Quirino Highway, Quezon City, Metro Manila",
+                "station_id": "metromanilatullahanquirinohighwayquezoncity_wl"
+            },
+            {
+                "lat": 14.639747,
+                "url": "/asg/metromaniladelmontebridgequezoncity_wl/",
+                "lng": 121.0127,
+                "verbose_name": "Del Monte Bridge, Quezon City, Metro Manila",
+                "station_id": "metromaniladelmontebridgequezoncity_wl"
+            },
+            {
+                "lat": 14.668789,
+                "url": "/asg/metromanilamodestabridgebrgyfortunemarikinacity_wl/",
+                "lng": 121.128525,
+                "verbose_name": "Modesta Bridge, Brgy Fortune, Marikina City, Metro Manila",
+                "station_id": "metromanilamodestabridgebrgyfortunemarikinacity_wl"
+            },
+            {
+                "lat": 14.690461,
+                "url": "/asg/metromanilamacedabridgebrgyugongvalenzuela_wl/",
+                "lng": 121.022506,
+                "verbose_name": "Maceda Bridge, Brgy Ugong, Valenzuela, Metro Manila",
+                "station_id": "metromanilamacedabridgebrgyugongvalenzuela_wl"
+            },
+            {
+                "lat": 14.531717,
+                "url": "/asg/metromanilalevimarianobridgetaguigcity_wl/",
+                "lng": 121.068733,
+                "verbose_name": "Levi Mariano Bridge, Taguig City, Metro Manila",
+                "station_id": "metromanilalevimarianobridgetaguigcity_wl"
+            },
+            {
+                "lat": 14.670644,
+                "url": "/asg/metromanilatullahanbridgemcarthurhighwayvalenzuela_wl/",
+                "lng": 120.981969,
+                "verbose_name": "Tullahan Bridge, Mcarthur Highway, Valenzuela, Metro Manila",
+                "station_id": "metromanilatullahanbridgemcarthurhighwayvalenzuela_wl"
+            },
+            {
+                "lat": 14.502142,
+                "url": "/asg/metromaniladongalobridgequirinoaveparanaquecity_wl/",
+                "lng": 120.992889,
+                "verbose_name": "Don Galo Bridge, Quirino Ave, Paranaque City, Metro Manila",
+                "station_id": "metromaniladongalobridgequirinoaveparanaquecity_wl"
+            },
+            {
+                "lat": 8.471469,
+                "url": "/asg/misamisorientalgoldenmilebridgecagayandeorocity_rwl/",
+                "lng": 124.641097,
+                "verbose_name": "Golden Mile Bridge, Cagayan De Oro City, Misamis Oriental",
+                "station_id": "misamisorientalgoldenmilebridgecagayandeorocity_rwl"
+            },
+            {
+                "lat": 8.440736,
+                "url": "/asg/misamisorientalsansimonbridge_rwl/",
+                "lng": 124.568806,
+                "verbose_name": "San Simon Bridge, Misamis Oriental",
+                "station_id": "misamisorientalsansimonbridge_rwl"
+            },
+            {
+                "lat": 8.312625,
+                "url": "/asg/bukidnonbubunawanbridge_rwl/",
+                "lng": 124.698414,
+                "verbose_name": "Bubunawan Bridge, Bukidnon",
+                "station_id": "bukidnonbubunawanbridge_rwl"
+            },
+            {
+                "lat": 14.634478,
+                "url": "/asg/metromaniladuyanduyanbridgexaviervilleavenuequezoncity_wl/",
+                "lng": 121.07135,
+                "verbose_name": "Duyan-Duyan Bridge, Xavierville Avenue, Quezon City, Metro Manila",
+                "station_id": "metromaniladuyanduyanbridgexaviervilleavenuequezoncity_wl"
+            },
+            {
+                "lat": 14.675461,
+                "url": "/asg/metromanilasantolanpumpingstationmalaboncity_wl/",
+                "lng": 120.964397,
+                "verbose_name": "Santolan Pumping Station, Malabon City, Metro Manila",
+                "station_id": "metromanilasantolanpumpingstationmalaboncity_wl"
+            },
+            {
+                "lat": 14.731603,
+                "url": "/asg/metromanilawawangpolovalenzuelacity_wl/",
+                "lng": 120.931306,
+                "verbose_name": "Wawang Polo, Valenzuela City, Metro Manila",
+                "station_id": "metromanilawawangpolovalenzuelacity_wl"
+            },
+            {
+                "lat": 14.621475,
+                "url": "/asg/metromanilabalinticreekmarikinacity_wl/",
+                "lng": 121.104981,
+                "verbose_name": "Balinti Creek, Marikina City, Metro Manila",
+                "station_id": "metromanilabalinticreekmarikinacity_wl"
+            },
+            {
+                "lat": 8.29574,
+                "url": "/asg/bukidnonimpasugong_rwl/",
+                "lng": 124.99824,
+                "verbose_name": "Impasug-ong, Bukidnon",
+                "station_id": "bukidnonimpasugong_rwl"
+            }
+        ],
+        "type": "asg",
+        "icon": "http://nababaha.appspot.com/static/img/red.png"
+    },
+    {
+        "color": "green",
+        "verbose_name": "Rain Gauges",
+        "stations": [
+            {
+                "lat": 14.763161,
+                "url": "/arg/rizalmtoro_r1/",
+                "lng": 121.159708,
+                "verbose_name": "Mt Oro, Rizal",
+                "station_id": "rizalmtoro_r1"
+            },
+            {
+                "lat": 14.673997,
+                "url": "/arg/metromanilanangka_r1/",
+                "lng": 121.109308,
+                "verbose_name": "Nangka, Metro Manila",
+                "station_id": "metromanilanangka_r1"
+            },
+            {
+                "lat": 14.662644,
+                "url": "/arg/rizalaries_r1/",
+                "lng": 121.168919,
+                "verbose_name": "Aries, Rizal",
+                "station_id": "rizalaries_r1"
+            },
+            {
+                "lat": 14.639419,
+                "url": "/arg/rizalbosoboso_r1/",
+                "lng": 121.222047,
+                "verbose_name": "Boso Boso, Rizal",
+                "station_id": "rizalbosoboso_r1"
+            },
+            {
+                "lat": 10.6614,
+                "url": "/arg/negrosoccidentalalangilanbacolodcity_r1/",
+                "lng": 123.079,
+                "verbose_name": "Alangilan, Bacolod City, Negros Occidental",
+                "station_id": "negrosoccidentalalangilanbacolodcity_r1"
+            },
+            {
+                "lat": 10.6697,
+                "url": "/arg/negrosoccidentalestefaniabacolodcity_r1/",
+                "lng": 122.987,
+                "verbose_name": "Estefania, Bacolod City, Negros Occidental",
+                "station_id": "negrosoccidentalestefaniabacolodcity_r1"
+            },
+            {
+                "lat": 10.6413,
+                "url": "/arg/negrosoccidentaltangubbacolodcity_r1/",
+                "lng": 122.924,
+                "verbose_name": "Tangub, Bacolod City, Negros Occidental",
+                "station_id": "negrosoccidentaltangubbacolodcity_r1"
+            },
+            {
+                "lat": 6.05425,
+                "url": "/arg/sulujolo_r1/",
+                "lng": 121.002,
+                "verbose_name": "Jolo, Sulu",
+                "station_id": "sulujolo_r1"
+            },
+            {
+                "lat": 11.2517,
+                "url": "/arg/capizdumarao_r2/",
+                "lng": 122.676,
+                "verbose_name": "Dumarao, Capiz",
+                "station_id": "capizdumarao_r2"
+            },
+            {
+                "lat": 11.526,
+                "url": "/arg/aklanmadalag_r2/",
+                "lng": 122.307,
+                "verbose_name": "Madalag, Aklan",
+                "station_id": "aklanmadalag_r2"
+            },
+            {
+                "lat": 14.628917,
+                "url": "/arg/bataanbrgycabogcabogbalanga_r2/",
+                "lng": 120.471861,
+                "verbose_name": "Brgy Cabog-Cabog, Balanga, Bataan",
+                "station_id": "bataanbrgycabogcabogbalanga_r2"
+            },
+            {
+                "lat": 17.652,
+                "url": "/arg/cagayantuguegaraocity_r2/",
+                "lng": 121.754,
+                "verbose_name": "Tuguegarao City, Cagayan",
+                "station_id": "cagayantuguegaraocity_r2"
+            },
+            {
+                "lat": 20.35,
+                "url": "/arg/batanessabtang_r1/",
+                "lng": 121.833,
+                "verbose_name": "Sabtang, Batanes",
+                "station_id": "batanessabtang_r1"
+            },
+            {
+                "lat": 16.716667,
+                "url": "/arg/isabelaechague_r1/",
+                "lng": 121.683333,
+                "verbose_name": "Echague, Isabela",
+                "station_id": "isabelaechague_r1"
+            },
+            {
+                "lat": 17.14,
+                "url": "/arg/quirinomaddela_r1/",
+                "lng": 121.701,
+                "verbose_name": "Maddela, Quirino",
+                "station_id": "quirinomaddela_r1"
+            },
+            {
+                "lat": 16.333,
+                "url": "/arg/nuevavizcayadupaxdelnorte_r1/",
+                "lng": 121.1,
+                "verbose_name": "Dupax Del Norte, Nueva Vizcaya",
+                "station_id": "nuevavizcayadupaxdelnorte_r1"
+            },
+            {
+                "lat": 12.505556,
+                "url": "/arg/northernsamarcatarman_r2/",
+                "lng": 124.628611,
+                "verbose_name": "Catarman, Northern Samar",
+                "station_id": "northernsamarcatarman_r2"
+            },
+            {
+                "lat": 17.612411,
+                "url": "/arg/abralagangilang_r2/",
+                "lng": 120.736219,
+                "verbose_name": "Lagangilang, Abra",
+                "station_id": "abralagangilang_r2"
+            },
+            {
+                "lat": 18.01203,
+                "url": "/arg/apayaoluna_r2/",
+                "lng": 121.171039,
+                "verbose_name": "Luna, Apayao",
+                "station_id": "apayaoluna_r2"
+            },
+            {
+                "lat": 16.557726,
+                "url": "/arg/benguetlatrinidad_r2/",
+                "lng": 120.803947,
+                "verbose_name": "La Trinidad, Benguet",
+                "station_id": "benguetlatrinidad_r2"
+            },
+            {
+                "lat": 16.833079,
+                "url": "/arg/ifugaolamut_r2/",
+                "lng": 121.171039,
+                "verbose_name": "Lamut, Ifugao",
+                "station_id": "ifugaolamut_r2"
+            },
+            {
+                "lat": 17.391858,
+                "url": "/arg/kalingabulanaotabukcity_r2/",
+                "lng": 121.227275,
+                "verbose_name": "Bulanao, Tabuk City, Kalinga",
+                "station_id": "kalingabulanaotabukcity_r2"
+            },
+            {
+                "lat": 17.066343,
+                "url": "/arg/mountainprovincebontoc_r2/",
+                "lng": 121.03351,
+                "verbose_name": "Bontoc, Mountain Province",
+                "station_id": "mountainprovincebontoc_r2"
+            },
+            {
+                "lat": 16.402333,
+                "url": "/arg/benguetirisanbaguiocity_r2/",
+                "lng": 120.596007,
+                "verbose_name": "Irisan, Baguio City, Benguet",
+                "station_id": "benguetirisanbaguiocity_r2"
+            },
+            {
+                "lat": 14.473367,
+                "url": "/arg/rizallooccardona_rwl/",
+                "lng": 121.2203,
+                "verbose_name": "Looc, Cardona, Rizal",
+                "station_id": "rizallooccardona_rwl"
+            },
+            {
+                "lat": 14.668917,
+                "url": "/arg/bataanbrgydangcolbalanga_r2/",
+                "lng": 120.468278,
+                "verbose_name": "Brgy Dangcol, Balanga, Bataan",
+                "station_id": "bataanbrgydangcolbalanga_r2"
+            },
+            {
+                "lat": 14.659917,
+                "url": "/arg/bataanbrgycataningbalanga_r1/",
+                "lng": 120.493917,
+                "verbose_name": "Brgy Cataning, Balanga, Bataan",
+                "station_id": "bataanbrgycataningbalanga_r1"
+            },
+            {
+                "lat": 10.334621,
+                "url": "/arg/southernleytepstcsouthernleyte_r2/",
+                "lng": 125.170874,
+                "verbose_name": "Pstc Southern Leyte, Southern Leyte",
+                "station_id": "southernleytepstcsouthernleyte_r2"
+            },
+            {
+                "lat": 11.612633,
+                "url": "/arg/bilirannaval_r2/",
+                "lng": 124.473501,
+                "verbose_name": "Naval, Biliran",
+                "station_id": "bilirannaval_r2"
+            },
+            {
+                "lat": 12.070278,
+                "url": "/arg/samarcalbayogcity_r2/",
+                "lng": 124.595833,
+                "verbose_name": "Calbayog City, Samar",
+                "station_id": "samarcalbayogcity_r2"
+            },
+            {
+                "lat": 10.629973,
+                "url": "/arg/leytepstcpalo_r2/",
+                "lng": 124.950662,
+                "verbose_name": "Pstc Palo, Leyte",
+                "station_id": "leytepstcpalo_r2"
+            },
+            {
+                "lat": 11.995833,
+                "url": "/arg/easternsamarcanavid_r2/",
+                "lng": 125.443458,
+                "verbose_name": "Can-Avid, Eastern Samar",
+                "station_id": "easternsamarcanavid_r2"
+            },
+            {
+                "lat": 18.05412,
+                "url": "/arg/ilocosnortebataccity_r2/",
+                "lng": 120.54589,
+                "verbose_name": "Batac City, Ilocos Norte",
+                "station_id": "ilocosnortebataccity_r2"
+            },
+            {
+                "lat": 17.561944,
+                "url": "/arg/ilocossurvigancity_r2/",
+                "lng": 120.381111,
+                "verbose_name": "Vigan City, Ilocos Sur",
+                "station_id": "ilocossurvigancity_r2"
+            },
+            {
+                "lat": 16.59677,
+                "url": "/arg/launionsanfernandocity_r2/",
+                "lng": 120.306041,
+                "verbose_name": "San Fernando City, La Union",
+                "station_id": "launionsanfernandocity_r2"
+            },
+            {
+                "lat": 15.952333,
+                "url": "/arg/pangasinanstamaria_r2/",
+                "lng": 120.680528,
+                "verbose_name": "Sta. Maria, Pangasinan",
+                "station_id": "pangasinanstamaria_r2"
+            },
+            {
+                "lat": 13.150806,
+                "url": "/arg/albaylegazpicity_r2/",
+                "lng": 123.728417,
+                "verbose_name": "Legazpi City, Albay",
+                "station_id": "albaylegazpicity_r2"
+            },
+            {
+                "lat": 14.138026,
+                "url": "/arg/camarinesnortedaet_r2/",
+                "lng": 122.763304,
+                "verbose_name": "Daet, Camarines Norte",
+                "station_id": "camarinesnortedaet_r2"
+            },
+            {
+                "lat": 13.52502,
+                "url": "/arg/camarinessurnagacity_r2/",
+                "lng": 123.348615,
+                "verbose_name": "Naga City, Camarines Sur",
+                "station_id": "camarinessurnagacity_r2"
+            },
+            {
+                "lat": 13.708868,
+                "url": "/arg/catanduanesvirac_r2/",
+                "lng": 124.24216,
+                "verbose_name": "Virac, Catanduanes",
+                "station_id": "catanduanesvirac_r2"
+            },
+            {
+                "lat": 12.014722,
+                "url": "/arg/masbatearoroy_r2/",
+                "lng": 123.885775,
+                "verbose_name": "Aroroy, Masbate",
+                "station_id": "masbatearoroy_r2"
+            },
+            {
+                "lat": 12.99271,
+                "url": "/arg/sorsogondonsol_r2/",
+                "lng": 124.014746,
+                "verbose_name": "Donsol, Sorsogon",
+                "station_id": "sorsogondonsol_r2"
+            },
+            {
+                "lat": 10.711,
+                "url": "/arg/antiquesanjose_r2/",
+                "lng": 122.051,
+                "verbose_name": "San Jose, Antique",
+                "station_id": "antiquesanjose_r2"
+            },
+            {
+                "lat": 10.584355,
+                "url": "/arg/guimarasbuenavista_r2/",
+                "lng": 122.605135,
+                "verbose_name": "Buenavista, Guimaras",
+                "station_id": "guimarasbuenavista_r2"
+            },
+            {
+                "lat": 10.72015,
+                "url": "/arg/iloilolapaz_r2/",
+                "lng": 122.562106,
+                "verbose_name": "La Paz, Iloilo",
+                "station_id": "iloilolapaz_r2"
+            },
+            {
+                "lat": 9.792398,
+                "url": "/arg/boholclarin_r2/",
+                "lng": 124.153052,
+                "verbose_name": "Clarin, Bohol",
+                "station_id": "boholclarin_r2"
+            },
+            {
+                "lat": 9.628208,
+                "url": "/arg/negrosorientalpstcnegrosoriental_r2/",
+                "lng": 122.988832,
+                "verbose_name": "Pstc Negros Oriental, Negros Oriental",
+                "station_id": "negrosorientalpstcnegrosoriental_r2"
+            },
+            {
+                "lat": 9.129497,
+                "url": "/arg/siquijorlazi_r2/",
+                "lng": 123.636092,
+                "verbose_name": "Lazi, Siquijor",
+                "station_id": "siquijorlazi_r2"
+            },
+            {
+                "lat": 7.920779,
+                "url": "/arg/zamboangadelsurdumingag_r2/",
+                "lng": 123.348615,
+                "verbose_name": "Dumingag, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurdumingag_r2"
+            },
+            {
+                "lat": 8.433333,
+                "url": "/arg/zamboangadelnortekatipunan_r2/",
+                "lng": 123.283333,
+                "verbose_name": "Katipunan, Zamboanga Del Norte",
+                "station_id": "zamboangadelnortekatipunan_r2"
+            },
+            {
+                "lat": 8.152028,
+                "url": "/arg/bukidnonmalaybalay_r2/",
+                "lng": 125.132528,
+                "verbose_name": "Malaybalay, Bukidnon",
+                "station_id": "bukidnonmalaybalay_r2"
+            },
+            {
+                "lat": 9.157778,
+                "url": "/arg/camiguinmahinog_r2/",
+                "lng": 124.7875,
+                "verbose_name": "Mahinog, Camiguin",
+                "station_id": "camiguinmahinog_r2"
+            },
+            {
+                "lat": 8.157153,
+                "url": "/arg/misamisoccidentaltangubcity_r2/",
+                "lng": 123.721556,
+                "verbose_name": "Tangub City, Misamis Occidental",
+                "station_id": "misamisoccidentaltangubcity_r2"
+            },
+            {
+                "lat": 8.859,
+                "url": "/arg/misamisorientalgingoogcity_r2/",
+                "lng": 125.09,
+                "verbose_name": "Gingoog City, Misamis Oriental",
+                "station_id": "misamisorientalgingoogcity_r2"
+            },
+            {
+                "lat": 7.913889,
+                "url": "/arg/lanaodelnortekapatagan_r2/",
+                "lng": 123.768333,
+                "verbose_name": "Kapatagan, Lanao Del Norte",
+                "station_id": "lanaodelnortekapatagan_r2"
+            },
+            {
+                "lat": 6.78834,
+                "url": "/arg/davaodelsurbansalan_r2/",
+                "lng": 125.20474,
+                "verbose_name": "Bansalan, Davao Del Sur",
+                "station_id": "davaodelsurbansalan_r2"
+            },
+            {
+                "lat": 7.56177,
+                "url": "/arg/davaodelnortepanabo_r2/",
+                "lng": 125.653285,
+                "verbose_name": "Panabo, Davao Del Norte",
+                "station_id": "davaodelnortepanabo_r2"
+            },
+            {
+                "lat": 8.246286,
+                "url": "/arg/lanaodelnortebrgydigkilaaniligancity_r2/",
+                "lng": 124.32335,
+                "verbose_name": "Brgy Digkilaan, Iligan City, Lanao Del Norte",
+                "station_id": "lanaodelnortebrgydigkilaaniligancity_r2"
+            },
+            {
+                "lat": 7.40457,
+                "url": "/arg/compostelavalleypstccompostelavalley_r2/",
+                "lng": 126.05833,
+                "verbose_name": "Pstc Compostela Valley, Compostela Valley",
+                "station_id": "compostelavalleypstccompostelavalley_r2"
+            },
+            {
+                "lat": 6.50694,
+                "url": "/arg/sultankudaratisulan_r2/",
+                "lng": 124.419824,
+                "verbose_name": "Isulan, Sultan Kudarat",
+                "station_id": "sultankudaratisulan_r2"
+            },
+            {
+                "lat": 5.926718,
+                "url": "/arg/saranganikiamba_r2/",
+                "lng": 124.994751,
+                "verbose_name": "Kiamba, Sarangani",
+                "station_id": "saranganikiamba_r2"
+            },
+            {
+                "lat": 6.335756,
+                "url": "/arg/southcotabatokoronadalcity_r2/",
+                "lng": 124.774079,
+                "verbose_name": "Koronadal City, South Cotabato",
+                "station_id": "southcotabatokoronadalcity_r2"
+            },
+            {
+                "lat": 7.216667,
+                "url": "/arg/cotabatocarmen_r2/",
+                "lng": 124.25,
+                "verbose_name": "Carmen, Cotabato",
+                "station_id": "cotabatocarmen_r2"
+            },
+            {
+                "lat": 15.733607,
+                "url": "/arg/auroraaurora_r2/",
+                "lng": 121.57125,
+                "verbose_name": "Aurora, Aurora",
+                "station_id": "auroraaurora_r2"
+            },
+            {
+                "lat": 14.641684,
+                "url": "/arg/bataanorani_r2/",
+                "lng": 120.481845,
+                "verbose_name": "Orani, Bataan",
+                "station_id": "bataanorani_r2"
+            },
+            {
+                "lat": 8.229882,
+                "url": "/arg/lanaodelnorteabunoiligancity_r2/",
+                "lng": 124.234542,
+                "verbose_name": "Abuno, Iligan City, Lanao Del Norte",
+                "station_id": "lanaodelnorteabunoiligancity_r2"
+            },
+            {
+                "lat": 15.8472,
+                "url": "/arg/pangasinaninfanta_r2/",
+                "lng": 119.956781,
+                "verbose_name": "Infanta, Pangasinan",
+                "station_id": "pangasinaninfanta_r2"
+            },
+            {
+                "lat": 15.690683,
+                "url": "/arg/nuevaecijanuevaecija_r2/",
+                "lng": 120.987632,
+                "verbose_name": "Nueva Ecija, Nueva Ecija",
+                "station_id": "nuevaecijanuevaecija_r2"
+            },
+            {
+                "lat": 15.475479,
+                "url": "/arg/tarlactarlac_r2/",
+                "lng": 120.596349,
+                "verbose_name": "Tarlac, Tarlac",
+                "station_id": "tarlactarlac_r2"
+            },
+            {
+                "lat": 14.7,
+                "url": "/arg/metromanilaqcpuquezoncity_r2/",
+                "lng": 121.033333,
+                "verbose_name": "Qcpu, Quezon City, Metro Manila",
+                "station_id": "metromanilaqcpuquezoncity_r2"
+            },
+            {
+                "lat": 14.7,
+                "url": "/arg/metromaniladalandananvalenzuelacity_r2/",
+                "lng": 120.966667,
+                "verbose_name": "Dalandanan, Valenzuela City, Metro Manila",
+                "station_id": "metromaniladalandananvalenzuelacity_r2"
+            },
+            {
+                "lat": 14.197867,
+                "url": "/arg/caviteindang_r2/",
+                "lng": 120.883533,
+                "verbose_name": "Indang, Cavite",
+                "station_id": "caviteindang_r2"
+            },
+            {
+                "lat": 14.004253,
+                "url": "/arg/lagunastacruz_r2/",
+                "lng": 121.00679,
+                "verbose_name": "Sta Cruz, Laguna",
+                "station_id": "lagunastacruz_r2"
+            },
+            {
+                "lat": 13.773317,
+                "url": "/arg/batangasbatangascity_r2/",
+                "lng": 121.1452,
+                "verbose_name": "Batangas City, Batangas",
+                "station_id": "batangasbatangascity_r2"
+            },
+            {
+                "lat": 14.5174,
+                "url": "/arg/rizalmorong_r1/",
+                "lng": 121.539833,
+                "verbose_name": "Morong, Rizal",
+                "station_id": "rizalmorong_r1"
+            },
+            {
+                "lat": 14.052783,
+                "url": "/arg/quezontayabas_r2/",
+                "lng": 121.539833,
+                "verbose_name": "Tayabas, Quezon",
+                "station_id": "quezontayabas_r2"
+            },
+            {
+                "lat": 9.733333,
+                "url": "/arg/surigaodelnortesanfrancisco_r2/",
+                "lng": 125.416667,
+                "verbose_name": "San Francisco, Surigao Del Norte",
+                "station_id": "surigaodelnortesanfrancisco_r2"
+            },
+            {
+                "lat": 9.66,
+                "url": "/arg/surigaodelnortesison_r2/",
+                "lng": 125.529,
+                "verbose_name": "Sison, Surigao Del Norte",
+                "station_id": "surigaodelnortesison_r2"
+            },
+            {
+                "lat": 9.566667,
+                "url": "/arg/surigaodelnorteclaver_r2/",
+                "lng": 125.733333,
+                "verbose_name": "Claver, Surigao Del Norte",
+                "station_id": "surigaodelnorteclaver_r2"
+            },
+            {
+                "lat": 9.45,
+                "url": "/arg/agusandelnortekitcharao_r2/",
+                "lng": 125.566667,
+                "verbose_name": "Kitcharao, Agusan Del Norte",
+                "station_id": "agusandelnortekitcharao_r2"
+            },
+            {
+                "lat": 6.662183,
+                "url": "/arg/basilanlantawan_r2/",
+                "lng": 121.904518,
+                "verbose_name": "Lantawan, Basilan",
+                "station_id": "basilanlantawan_r2"
+            },
+            {
+                "lat": 7.028856,
+                "url": "/arg/maguindanaoparang_r2/",
+                "lng": 124.164886,
+                "verbose_name": "Parang, Maguindanao",
+                "station_id": "maguindanaoparang_r2"
+            },
+            {
+                "lat": 7.534283,
+                "url": "/arg/lanaodelsurbalabagan_r2/",
+                "lng": 124.116553,
+                "verbose_name": "Balabagan, Lanao Del Sur",
+                "station_id": "lanaodelsurbalabagan_r2"
+            },
+            {
+                "lat": 7.333422,
+                "url": "/arg/maguindanaoupi_r2/",
+                "lng": 124.316603,
+                "verbose_name": "Upi, Maguindanao",
+                "station_id": "maguindanaoupi_r2"
+            },
+            {
+                "lat": 13.06718,
+                "url": "/arg/occidentalmindoromamburao_r2/",
+                "lng": 120.987632,
+                "verbose_name": "Mamburao, Occidental Mindoro",
+                "station_id": "occidentalmindoromamburao_r2"
+            },
+            {
+                "lat": 12.770694,
+                "url": "/arg/orientalmindorobongabong_r2/",
+                "lng": 121.475056,
+                "verbose_name": "Bongabong, Oriental Mindoro",
+                "station_id": "orientalmindorobongabong_r2"
+            },
+            {
+                "lat": 13.364229,
+                "url": "/arg/marinduquepstcmarinduque_r2/",
+                "lng": 121.947311,
+                "verbose_name": "Pstc Marinduque, Marinduque",
+                "station_id": "marinduquepstcmarinduque_r2"
+            },
+            {
+                "lat": 12.41276,
+                "url": "/arg/romblonsanfernandosibuyan_r2/",
+                "lng": 122.559899,
+                "verbose_name": "San Fernando, Sibuyan, Romblon",
+                "station_id": "romblonsanfernandosibuyan_r2"
+            },
+            {
+                "lat": 9.44623,
+                "url": "/arg/palawanquezon_r2/",
+                "lng": 118.392942,
+                "verbose_name": "Quezon, Palawan",
+                "station_id": "palawanquezon_r2"
+            },
+            {
+                "lat": 14.645336,
+                "url": "/arg/metromanilasciencegarden_r2/",
+                "lng": 121.043992,
+                "verbose_name": "Science Garden, Metro Manila",
+                "station_id": "metromanilasciencegarden_r2"
+            },
+            {
+                "lat": 9.899167,
+                "url": "/arg/cebuargao_r2/",
+                "lng": 123.584167,
+                "verbose_name": "Argao, Cebu",
+                "station_id": "cebuargao_r2"
+            },
+            {
+                "lat": 13.838067,
+                "url": "/arg/quezonunisan_r2/",
+                "lng": 121.97835,
+                "verbose_name": "Unisan, Quezon",
+                "station_id": "quezonunisan_r2"
+            },
+            {
+                "lat": 10.883333,
+                "url": "/arg/iloilocabatuan_r2/",
+                "lng": 122.483333,
+                "verbose_name": "Cabatuan, Iloilo",
+                "station_id": "iloilocabatuan_r2"
+            },
+            {
+                "lat": 10.816667,
+                "url": "/arg/iloiloalimodian_r1/",
+                "lng": 122.433333,
+                "verbose_name": "Alimodian, Iloilo",
+                "station_id": "iloiloalimodian_r1"
+            },
+            {
+                "lat": 8.0976,
+                "url": "/arg/zamboangadelsurbarangayparasanmolave_r2/",
+                "lng": 123.486,
+                "verbose_name": "Barangay Parasan, Molave, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurbarangayparasanmolave_r2"
+            },
+            {
+                "lat": 8.083333,
+                "url": "/arg/zamboangadelsurbarangaysimatamolave_r2/",
+                "lng": 123.483333,
+                "verbose_name": "Barangay Simata, Molave, Zamboanga Del Sur",
+                "station_id": "zamboangadelsurbarangaysimatamolave_r2"
+            },
+            {
+                "lat": 14.558022,
+                "url": "/arg/metromanilanapindanjspasigcity_rwl/",
+                "lng": 121.044011,
+                "verbose_name": "Napindan Js, Pasig City, Metro Manila",
+                "station_id": "metromanilanapindanjspasigcity_rwl"
+            },
+            {
+                "lat": 14.590405,
+                "url": "/arg/metromanilamasterstation_r1/",
+                "lng": 121.091689,
+                "verbose_name": "Master Station, Metro Manila",
+                "station_id": "metromanilamasterstation_r1"
+            },
+            {
+                "lat": 14.610833,
+                "url": "/arg/metromanilasampalocmanilacity_r2/",
+                "lng": 120.994167,
+                "verbose_name": "Sampaloc, Manila City, Metro Manila",
+                "station_id": "metromanilasampalocmanilacity_r2"
+            },
+            {
+                "lat": 14.667028,
+                "url": "/arg/rizalmtcampana_r2/",
+                "lng": 121.292836,
+                "verbose_name": "Mt. Campana, Rizal",
+                "station_id": "rizalmtcampana_r2"
+            },
+            {
+                "lat": 16.023696,
+                "url": "/arg/nuevavizcayaalfonsocastaneda_r2/",
+                "lng": 120.816653,
+                "verbose_name": "Alfonso Castaneda, Nueva Vizcaya",
+                "station_id": "nuevavizcayaalfonsocastaneda_r2"
+            },
+            {
+                "lat": 16.7,
+                "url": "/arg/isabelasantiagocity_r2/",
+                "lng": 121.55,
+                "verbose_name": "Santiago City, Isabela",
+                "station_id": "isabelasantiagocity_r2"
+            },
+            {
+                "lat": 17.133333,
+                "url": "/arg/isabelailagan_r2/",
+                "lng": 121.883333,
+                "verbose_name": "Ilagan, Isabela",
+                "station_id": "isabelailagan_r2"
+            },
+            {
+                "lat": 16.933333,
+                "url": "/arg/isabelacauayancity_r2/",
+                "lng": 121.766667,
+                "verbose_name": "Cauayan City, Isabela",
+                "station_id": "isabelacauayancity_r2"
+            },
+            {
+                "lat": 8.35705,
+                "url": "/arg/bukidnonkinawelibona_r2/",
+                "lng": 124.692531,
+                "verbose_name": "Kinawe, Libona, Bukidnon",
+                "station_id": "bukidnonkinawelibona_r2"
+            },
+            {
+                "lat": 8.304539,
+                "url": "/arg/bukidnonbaungonpoblacion_r2/",
+                "lng": 124.699028,
+                "verbose_name": "Baungon Poblacion, Bukidnon",
+                "station_id": "bukidnonbaungonpoblacion_r2"
+            },
+            {
+                "lat": 8.349875,
+                "url": "/arg/misamisorientalpigsagancagayandeorocity_r2/",
+                "lng": 124.492011,
+                "verbose_name": "Pigsag-An, Cagayan De Oro City, Misamis Oriental",
+                "station_id": "misamisorientalpigsagancagayandeorocity_r2"
+            },
+            {
+                "lat": 8.471469,
+                "url": "/arg/misamisorientalgoldenmilebridgecagayandeorocity_rwl/",
+                "lng": 124.641097,
+                "verbose_name": "Golden Mile Bridge, Cagayan De Oro City, Misamis Oriental",
+                "station_id": "misamisorientalgoldenmilebridgecagayandeorocity_rwl"
+            },
+            {
+                "lat": 8.440736,
+                "url": "/arg/misamisorientalsansimonbridge_rwl/",
+                "lng": 124.568806,
+                "verbose_name": "San Simon Bridge, Misamis Oriental",
+                "station_id": "misamisorientalsansimonbridge_rwl"
+            },
+            {
+                "lat": 8.312625,
+                "url": "/arg/bukidnonbubunawanbridge_rwl/",
+                "lng": 124.698414,
+                "verbose_name": "Bubunawan Bridge, Bukidnon",
+                "station_id": "bukidnonbubunawanbridge_rwl"
+            },
+            {
+                "lat": 8.232697,
+                "url": "/arg/lanaodelnorterogongoniligancity_r2/",
+                "lng": 124.419372,
+                "verbose_name": "Rogongon, Iligan City, Lanao Del Norte",
+                "station_id": "lanaodelnorterogongoniligancity_r2"
+            },
+            {
+                "lat": 18.268056,
+                "url": "/arg/cagayancamalaniugan_r2/",
+                "lng": 121.683056,
+                "verbose_name": "Camalaniugan, Cagayan",
+                "station_id": "cagayancamalaniugan_r2"
+            },
+            {
+                "lat": 16.660556,
+                "url": "/arg/nuevavizcayadiadi_r2/",
+                "lng": 121.369167,
+                "verbose_name": "Diadi, Nueva Vizcaya",
+                "station_id": "nuevavizcayadiadi_r2"
+            },
+            {
+                "lat": 17.65,
+                "url": "/arg/nuevavizcayasolano_r2/",
+                "lng": 121.691111,
+                "verbose_name": "Solano, Nueva Vizcaya",
+                "station_id": "nuevavizcayasolano_r2"
+            },
+            {
+                "lat": 16.132833,
+                "url": "/arg/nuevavizcayastafe_r2/",
+                "lng": 120.929667,
+                "verbose_name": "Sta. Fe, Nueva Vizcaya",
+                "station_id": "nuevavizcayastafe_r2"
+            },
+            {
+                "lat": 16.5905,
+                "url": "/arg/nuevavizcayavillaverde_r2/",
+                "lng": 121.186833,
+                "verbose_name": "Villa Verde, Nueva Vizcaya",
+                "station_id": "nuevavizcayavillaverde_r2"
+            },
+            {
+                "lat": 16.491353,
+                "url": "/arg/benguetbokod_r2/",
+                "lng": 120.830524,
+                "verbose_name": "Bokod, Benguet",
+                "station_id": "benguetbokod_r2"
+            },
+            {
+                "lat": 16.914323,
+                "url": "/arg/ifugaobanaue_r2/",
+                "lng": 121.060291,
+                "verbose_name": "Banaue, Ifugao",
+                "station_id": "ifugaobanaue_r2"
+            },
+            {
+                "lat": 16.852347,
+                "url": "/arg/ifugaohingyon_r2/",
+                "lng": 121.099006,
+                "verbose_name": "Hingyon, Ifugao",
+                "station_id": "ifugaohingyon_r2"
+            },
+            {
+                "lat": 16.768173,
+                "url": "/arg/ifugaoasipulo_r2/",
+                "lng": 121.056704,
+                "verbose_name": "Asipulo, Ifugao",
+                "station_id": "ifugaoasipulo_r2"
+            },
+            {
+                "lat": 14.27135,
+                "url": "/arg/lagunacabuyao_r2/",
+                "lng": 121.12427,
+                "verbose_name": "Cabuyao, Laguna",
+                "station_id": "lagunacabuyao_r2"
+            },
+            {
+                "lat": 14.04496,
+                "url": "/arg/batangasstotomas_r2/",
+                "lng": 121.18866,
+                "verbose_name": "Sto. Tomas, Batangas",
+                "station_id": "batangasstotomas_r2"
+            },
+            {
+                "lat": 14.01786,
+                "url": "/arg/batangasbalete_r2/",
+                "lng": 121.12888,
+                "verbose_name": "Balete, Batangas",
+                "station_id": "batangasbalete_r2"
+            },
+            {
+                "lat": 14.31219,
+                "url": "/arg/cavitedasmarinas_r2/",
+                "lng": 120.97131,
+                "verbose_name": "Dasmarinas, Cavite",
+                "station_id": "cavitedasmarinas_r2"
+            },
+            {
+                "lat": 14.17023,
+                "url": "/arg/caviteamadeo_r2/",
+                "lng": 120.92218,
+                "verbose_name": "Amadeo, Cavite",
+                "station_id": "caviteamadeo_r2"
+            },
+            {
+                "lat": 14.24685,
+                "url": "/arg/lagunacavinti_r2/",
+                "lng": 121.50039,
+                "verbose_name": "Cavinti, Laguna",
+                "station_id": "lagunacavinti_r2"
+            },
+            {
+                "lat": 14.05033,
+                "url": "/arg/batangaslaurel_r2/",
+                "lng": 120.93244,
+                "verbose_name": "Laurel, Batangas",
+                "station_id": "batangaslaurel_r2"
+            },
+            {
+                "lat": 14.11512,
+                "url": "/arg/lagunamajayjay_r2/",
+                "lng": 121.50355,
+                "verbose_name": "Majayjay, Laguna",
+                "station_id": "lagunamajayjay_r2"
+            },
+            {
+                "lat": 14.13332,
+                "url": "/arg/lagunanagcarlan_r2/",
+                "lng": 121.41523,
+                "verbose_name": "Nagcarlan, Laguna",
+                "station_id": "lagunanagcarlan_r2"
+            },
+            {
+                "lat": 14.2014,
+                "url": "/arg/lagunavictoria_r2/",
+                "lng": 121.35667,
+                "verbose_name": "Victoria, Laguna",
+                "station_id": "lagunavictoria_r2"
+            },
+            {
+                "lat": 14.31446,
+                "url": "/arg/lagunastarosa_r2/",
+                "lng": 121.11377,
+                "verbose_name": "Sta. Rosa, Laguna",
+                "station_id": "lagunastarosa_r2"
+            },
+            {
+                "lat": 16.853702,
+                "url": "/arg/mountainprovincebauko_r2/",
+                "lng": 120.857981,
+                "verbose_name": "Bauko, Mountain Province",
+                "station_id": "mountainprovincebauko_r2"
+            },
+            {
+                "lat": 17.095139,
+                "url": "/arg/mountainprovincebesao_r2/",
+                "lng": 120.855944,
+                "verbose_name": "Besao, Mountain Province",
+                "station_id": "mountainprovincebesao_r2"
+            },
+            {
+                "lat": 16.722266,
+                "url": "/arg/benguetbakun_r2/",
+                "lng": 120.783043,
+                "verbose_name": "Bakun, Benguet",
+                "station_id": "benguetbakun_r2"
+            },
+            {
+                "lat": 16.497631,
+                "url": "/arg/benguetsablan_r2/",
+                "lng": 120.486703,
+                "verbose_name": "Sablan, Benguet",
+                "station_id": "benguetsablan_r2"
+            },
+            {
+                "lat": 16.265221,
+                "url": "/arg/benguettuba_r2/",
+                "lng": 120.637185,
+                "verbose_name": "Tuba, Benguet",
+                "station_id": "benguettuba_r2"
+            },
+            {
+                "lat": 16.576114,
+                "url": "/arg/benguetkapangan_r2/",
+                "lng": 120.607122,
+                "verbose_name": "Kapangan, Benguet",
+                "station_id": "benguetkapangan_r2"
+            },
+            {
+                "lat": 16.800194,
+                "url": "/arg/benguetbuguias_r2/",
+                "lng": 120.821889,
+                "verbose_name": "Buguias, Benguet",
+                "station_id": "benguetbuguias_r2"
+            },
+            {
+                "lat": 13.87983,
+                "url": "/arg/batangaspadregarcia_r2/",
+                "lng": 121.21284,
+                "verbose_name": "Padre Garcia, Batangas",
+                "station_id": "batangaspadregarcia_r2"
+            },
+            {
+                "lat": 8.29574,
+                "url": "/arg/bukidnonimpasugong_rwl/",
+                "lng": 124.99824,
+                "verbose_name": "Impasug-ong, Bukidnon",
+                "station_id": "bukidnonimpasugong_rwl"
+            },
+            {
+                "lat": 8.33425,
+                "url": "/arg/bukidnonsumilao_r2/",
+                "lng": 124.97808,
+                "verbose_name": "Sumilao, Bukidnon",
+                "station_id": "bukidnonsumilao_r2"
+            },
+            {
+                "lat": 8.197658,
+                "url": "/arg/bukidnonnomiarcmalaybalay_r2/",
+                "lng": 125.050618,
+                "verbose_name": "Nomiarc, Malaybalay, Bukidnon",
+                "station_id": "bukidnonnomiarcmalaybalay_r2"
+            },
+            {
+                "lat": 8.21982,
+                "url": "/arg/bukidnonmanolofortich_r2/",
+                "lng": 124.85072,
+                "verbose_name": "Manolo Fortich, Bukidnon",
+                "station_id": "bukidnonmanolofortich_r2"
+            },
+            {
+                "lat": 7.715637,
+                "url": "/arg/bukidnonquezon_r2/",
+                "lng": 125.111389,
+                "verbose_name": "Quezon, Bukidnon",
+                "station_id": "bukidnonquezon_r2"
+            },
+            {
+                "lat": 7.78138,
+                "url": "/arg/bukidnonmunicipalhallmaramag_r2/",
+                "lng": 125.01137,
+                "verbose_name": "Municipal Hall, Maramag, Bukidnon",
+                "station_id": "bukidnonmunicipalhallmaramag_r2"
+            },
+            {
+                "lat": 7.848431,
+                "url": "/arg/bukidnonmusuanmaramag_r2/",
+                "lng": 125.050214,
+                "verbose_name": "Musuan, Maramag, Bukidnon",
+                "station_id": "bukidnonmusuanmaramag_r2"
+            },
+            {
+                "lat": 14.26472,
+                "url": "/arg/cavitecarmona_r2/",
+                "lng": 121.08083,
+                "verbose_name": "Carmona, Cavite",
+                "station_id": "cavitecarmona_r2"
+            },
+            {
+                "lat": 17.795214,
+                "url": "/arg/apayaoconner_r2/",
+                "lng": 121.322266,
+                "verbose_name": "Conner, Apayao",
+                "station_id": "apayaoconner_r2"
+            },
+            {
+                "lat": 18.283333,
+                "url": "/arg/apayaostamarcela_r2/",
+                "lng": 121.433333,
+                "verbose_name": "Sta. Marcela, Apayao",
+                "station_id": "apayaostamarcela_r2"
+            },
+            {
+                "lat": 18.127294,
+                "url": "/arg/apayaopudtol_r2/",
+                "lng": 121.345066,
+                "verbose_name": "Pudtol, Apayao",
+                "station_id": "apayaopudtol_r2"
+            },
+            {
+                "lat": 14.11902,
+                "url": "/arg/lagunacalauan_r2/",
+                "lng": 121.28717,
+                "verbose_name": "Calauan, Laguna",
+                "station_id": "lagunacalauan_r2"
+            },
+            {
+                "lat": 14.14341,
+                "url": "/arg/lagunabay_r2/",
+                "lng": 121.27277,
+                "verbose_name": "Bay, Laguna",
+                "station_id": "lagunabay_r2"
+            },
+            {
+                "lat": 14.55369,
+                "url": "/arg/rizalbaras_r2/",
+                "lng": 121.2858,
+                "verbose_name": "Baras, Rizal",
+                "station_id": "rizalbaras_r2"
+            },
+            {
+                "lat": 14.4999,
+                "url": "/arg/rizaltanay_r2/",
+                "lng": 121.28285,
+                "verbose_name": "Tanay, Rizal",
+                "station_id": "rizaltanay_r2"
+            },
+            {
+                "lat": 14.47678,
+                "url": "/arg/rizalpililia_r2/",
+                "lng": 121.31559,
+                "verbose_name": "Pililia, Rizal",
+                "station_id": "rizalpililia_r2"
+            },
+            {
+                "lat": 13.68753,
+                "url": "/arg/batangaslobo_r2/",
+                "lng": 121.20902,
+                "verbose_name": "Lobo, Batangas",
+                "station_id": "batangaslobo_r2"
+            }
+        ],
+        "type": "arg",
+        "icon": "http://nababaha.appspot.com/static/img/green.png"
+    },
+    {
+        "color": "yellow",
+        "verbose_name": "Tide Levels",
+        "stations": [
+            {
+                "lat": 10.75,
+                "url": "/td/abuyog_td/",
+                "lng": 125.0167,
+                "verbose_name": "Abuyog",
+                "station_id": "abuyog_td"
+            },
+            {
+                "lat": 11.7333,
+                "url": "/td/aclanriverentr_td/",
+                "lng": 122.3667,
+                "verbose_name": "Aclan River Entr",
+                "station_id": "aclanriverentr_td"
+            },
+            {
+                "lat": 13.2833,
+                "url": "/td/aguasabay_td/",
+                "lng": 122.5167,
+                "verbose_name": "Aguasa Bay",
+                "station_id": "aguasabay_td"
+            },
+            {
+                "lat": 9,
+                "url": "/td/agusanriverentrbutuanbay_td/",
+                "lng": 125.5167,
+                "verbose_name": "Agusan River Entr, Butuan Bay",
+                "station_id": "agusanriverentrbutuanbay_td"
+            },
+            {
+                "lat": 10.8667,
+                "url": "/td/alligatorbaymalampayasd_td/",
+                "lng": 119.2833,
+                "verbose_name": "Alligator Bay, Malampaya Sd",
+                "station_id": "alligatorbaymalampayasd_td"
+            },
+            {
+                "lat": 6.4333,
+                "url": "/td/amoyloibasilianisland_td/",
+                "lng": 122.1333,
+                "verbose_name": "Amoyloi, Basilian Island",
+                "station_id": "amoyloibasilianisland_td"
+            },
+            {
+                "lat": 11.65,
+                "url": "/td/andisislandportborongan_td/",
+                "lng": 125.4833,
+                "verbose_name": "Andis Island, Port Borongan",
+                "station_id": "andisislandportborongan_td"
+            },
+            {
+                "lat": 13.7667,
+                "url": "/td/anilaobalayanbay_td/",
+                "lng": 120.9167,
+                "verbose_name": "Anilao, Balayan Bay",
+                "station_id": "anilaobalayanbay_td"
+            },
+            {
+                "lat": 10.4333,
+                "url": "/td/aniniy_td/",
+                "lng": 121.9167,
+                "verbose_name": "Aniniy",
+                "station_id": "aniniy_td"
+            },
+            {
+                "lat": 18.35,
+                "url": "/td/aparricagayanriver_td/",
+                "lng": 121.6333,
+                "verbose_name": "Aparri, Cagayan River",
+                "station_id": "aparricagayanriver_td"
+            },
+            {
+                "lat": 12.6667,
+                "url": "/td/apoislandmindorostr_td/",
+                "lng": 120.4,
+                "verbose_name": "Apo Island, Mindoro Str",
+                "station_id": "apoislandmindorostr_td"
+            },
+            {
+                "lat": 10.55,
+                "url": "/td/aracelidumaranisland_td/",
+                "lng": 119.9833,
+                "verbose_name": "Araceli, Dumaran Island",
+                "station_id": "aracelidumaranisland_td"
+            },
+            {
+                "lat": 19.5667,
+                "url": "/td/babuyanisland_td/",
+                "lng": 121.9333,
+                "verbose_name": "Babuyan Island",
+                "station_id": "babuyanisland_td"
+            },
+            {
+                "lat": 10.6667,
+                "url": "/td/bacolod_td/",
+                "lng": 122.95,
+                "verbose_name": "Bacolod",
+                "station_id": "bacolod_td"
+            },
+            {
+                "lat": 11.1833,
+                "url": "/td/bacuit_td/",
+                "lng": 119.3833,
+                "verbose_name": "Bacuit",
+                "station_id": "bacuit_td"
+            },
+            {
+                "lat": 12.0833,
+                "url": "/td/bagataoisland_td/",
+                "lng": 123.8,
+                "verbose_name": "Bagatao Island",
+                "station_id": "bagataoisland_td"
+            },
+            {
+                "lat": 9.6,
+                "url": "/td/bais_td/",
+                "lng": 123.1333,
+                "verbose_name": "Bais",
+                "station_id": "bais_td"
+            },
+            {
+                "lat": 8,
+                "url": "/td/balabacbalabacisland_td/",
+                "lng": 117.0667,
+                "verbose_name": "Balabac, Balabac Island",
+                "station_id": "balabacbalabacisland_td"
+            },
+            {
+                "lat": 10.5,
+                "url": "/td/balambanbay_td/",
+                "lng": 123.7167,
+                "verbose_name": "Balamban Bay",
+                "station_id": "balambanbay_td"
+            },
+            {
+                "lat": 6.6833,
+                "url": "/td/balasbasilianisland_td/",
+                "lng": 122.1333,
+                "verbose_name": "Balas, Basilian Island",
+                "station_id": "balasbasilianisland_td"
+            },
+            {
+                "lat": 15.75,
+                "url": "/td/balerbay_td/",
+                "lng": 121.5833,
+                "verbose_name": "Baler Bay",
+                "station_id": "balerbay_td"
+            },
+            {
+                "lat": 5.0333,
+                "url": "/td/banaranisland_td/",
+                "lng": 120.1,
+                "verbose_name": "Banaran Island",
+                "station_id": "banaranisland_td"
+            },
+            {
+                "lat": 11,
+                "url": "/td/banate_td/",
+                "lng": 122.8167,
+                "verbose_name": "Banate",
+                "station_id": "banate_td"
+            },
+            {
+                "lat": 11.1667,
+                "url": "/td/bantayanbantayanisland_td/",
+                "lng": 123.7167,
+                "verbose_name": "Bantayan, Bantayan Island",
+                "station_id": "bantayanbantayanisland_td"
+            },
+            {
+                "lat": 5.7,
+                "url": "/td/bantingtapulisland_td/",
+                "lng": 120.8833,
+                "verbose_name": "Banting, Tapul Island",
+                "station_id": "bantingtapulisland_td"
+            },
+            {
+                "lat": 10.1167,
+                "url": "/td/barilibay_td/",
+                "lng": 123.4833,
+                "verbose_name": "Barili Bay",
+                "station_id": "barilibay_td"
+            },
+            {
+                "lat": 5.35,
+                "url": "/td/basbaschanneltawitawiisland_td/",
+                "lng": 120.2167,
+                "verbose_name": "Basbas Channel, Tawitawi Island",
+                "station_id": "basbaschanneltawitawiisland_td"
+            },
+            {
+                "lat": 20.45,
+                "url": "/td/bascobatanisland_td/",
+                "lng": 121.9667,
+                "verbose_name": "Basco Batan Island",
+                "station_id": "bascobatanisland_td"
+            },
+            {
+                "lat": 13.2333,
+                "url": "/td/batanisland_td/",
+                "lng": 124.05,
+                "verbose_name": "Batan Island",
+                "station_id": "batanisland_td"
+            },
+            {
+                "lat": 11.1667,
+                "url": "/td/batasisland_td/",
+                "lng": 119.6,
+                "verbose_name": "Batas Island",
+                "station_id": "batasisland_td"
+            },
+            {
+                "lat": 5.0667,
+                "url": "/td/batubatubaytawitawiisland_td/",
+                "lng": 119.8833,
+                "verbose_name": "Batu Batu Bay, Tawitawi Island",
+                "station_id": "batubatubaytawitawiisland_td"
+            },
+            {
+                "lat": 12.4167,
+                "url": "/td/batuanbayticaoisland_td/",
+                "lng": 123.7833,
+                "verbose_name": "Batuan Bay, Ticao Island",
+                "station_id": "batuanbayticaoisland_td"
+            },
+            {
+                "lat": 10.6833,
+                "url": "/td/baybay_td/",
+                "lng": 124.8,
+                "verbose_name": "Baybay",
+                "station_id": "baybay_td"
+            },
+            {
+                "lat": 12.65,
+                "url": "/td/biriisland_td/",
+                "lng": 124.3667,
+                "verbose_name": "Biri Island",
+                "station_id": "biriisland_td"
+            },
+            {
+                "lat": 10.5667,
+                "url": "/td/boayanisland_td/",
+                "lng": 119.1833,
+                "verbose_name": "Boayan Island",
+                "station_id": "boayanisland_td"
+            },
+            {
+                "lat": 11.0667,
+                "url": "/td/bogobay_td/",
+                "lng": 124,
+                "verbose_name": "Bogo Bay",
+                "station_id": "bogobay_td"
+            },
+            {
+                "lat": 6.5167,
+                "url": "/td/bojelebungbasilianisland_td/",
+                "lng": 122.2,
+                "verbose_name": "Bojelebung, Basilian Island",
+                "station_id": "bojelebungbasilianisland_td"
+            },
+            {
+                "lat": 10.9333,
+                "url": "/td/bolalobaymalampayasd_td/",
+                "lng": 119.2333,
+                "verbose_name": "Bolalo Bay, Malampaya Sd",
+                "station_id": "bolalobaymalampayasd_td"
+            },
+            {
+                "lat": 16.4,
+                "url": "/td/bolinaophilippines_td/",
+                "lng": 119.9,
+                "verbose_name": "Bolinao, Philippines",
+                "station_id": "bolinaophilippines_td"
+            },
+            {
+                "lat": 9.6333,
+                "url": "/td/boljoon_td/",
+                "lng": 123.4833,
+                "verbose_name": "Boljoon",
+                "station_id": "boljoon_td"
+            },
+            {
+                "lat": 11.95,
+                "url": "/td/borocayisland_td/",
+                "lng": 121.9333,
+                "verbose_name": "Borocay Island",
+                "station_id": "borocayisland_td"
+            },
+            {
+                "lat": 9.4167,
+                "url": "/td/buenavistageneralisland_td/",
+                "lng": 126,
+                "verbose_name": "Buenavista, General Island",
+                "station_id": "buenavistageneralisland_td"
+            },
+            {
+                "lat": 6.15,
+                "url": "/td/bulanisland_td/",
+                "lng": 121.8333,
+                "verbose_name": "Bulan Island",
+                "station_id": "bulanisland_td"
+            },
+            {
+                "lat": 14.9,
+                "url": "/td/burdeosbaypolilloisland_td/",
+                "lng": 121.9667,
+                "verbose_name": "Burdeos Bay, Polillo Island",
+                "station_id": "burdeosbaypolilloisland_td"
+            },
+            {
+                "lat": 12.6167,
+                "url": "/td/butagbay_td/",
+                "lng": 123.9333,
+                "verbose_name": "Butag Bay",
+                "station_id": "butagbay_td"
+            },
+            {
+                "lat": 13.7667,
+                "url": "/td/cabganislandsanmiguelbay_td/",
+                "lng": 123.2667,
+                "verbose_name": "Cabgan Island, San Miguel Bay",
+                "station_id": "cabganislandsanmiguelbay_td"
+            },
+            {
+                "lat": 10.95,
+                "url": "/td/cadiz_td/",
+                "lng": 123.3167,
+                "verbose_name": "Cadiz",
+                "station_id": "cadiz_td"
+            },
+            {
+                "lat": 9.5833,
+                "url": "/td/cagayananchoragecagayanisland_td/",
+                "lng": 121.2333,
+                "verbose_name": "Cagayan Anchorage, Cagayan Island",
+                "station_id": "cagayananchoragecagayanisland_td"
+            },
+            {
+                "lat": 6.9833,
+                "url": "/td/cagayansuluisland_td/",
+                "lng": 118.5333,
+                "verbose_name": "Cagayan Sulu Island",
+                "station_id": "cagayansuluisland_td"
+            },
+            {
+                "lat": 9.8167,
+                "url": "/td/calagcalagbay_td/",
+                "lng": 123.1333,
+                "verbose_name": "Calagcalag Bay",
+                "station_id": "calagcalagbay_td"
+            },
+            {
+                "lat": 13.4333,
+                "url": "/td/calapanbay_td/",
+                "lng": 121.1833,
+                "verbose_name": "Calapan Bay",
+                "station_id": "calapanbay_td"
+            },
+            {
+                "lat": 19.2667,
+                "url": "/td/calayanisland_td/",
+                "lng": 121.5,
+                "verbose_name": "Calayan Island",
+                "station_id": "calayanisland_td"
+            },
+            {
+                "lat": 12.0667,
+                "url": "/td/calbayog_td/",
+                "lng": 124.5833,
+                "verbose_name": "Calbayog",
+                "station_id": "calbayog_td"
+            },
+            {
+                "lat": 18.2833,
+                "url": "/td/camalaniugancagayanriver_td/",
+                "lng": 121.6667,
+                "verbose_name": "Camalaniugan, Cagayan River",
+                "station_id": "camalaniugancagayanriver_td"
+            },
+            {
+                "lat": 9.7,
+                "url": "/td/campomanesbay_td/",
+                "lng": 122.4167,
+                "verbose_name": "Campomanes Bay",
+                "station_id": "campomanesbay_td"
+            },
+            {
+                "lat": 11.4333,
+                "url": "/td/canauayislandjanabatasch_td/",
+                "lng": 124.85,
+                "verbose_name": "Canauay Island, Janabatas Ch",
+                "station_id": "canauayislandjanabatasch_td"
+            },
+            {
+                "lat": 9,
+                "url": "/td/canauayoranchorage_td/",
+                "lng": 124.85,
+                "verbose_name": "Canauayor Anchorage",
+                "station_id": "canauayoranchorage_td"
+            },
+            {
+                "lat": 12.5,
+                "url": "/td/cangouacpointsibuyanisland_td/",
+                "lng": 122.5,
+                "verbose_name": "Cangouac Point, Sibuyan Island",
+                "station_id": "cangouacpointsibuyanisland_td"
+            },
+            {
+                "lat": 6.0167,
+                "url": "/td/capualisland_td/",
+                "lng": 121.4167,
+                "verbose_name": "Capual Island",
+                "station_id": "capualisland_td"
+            },
+            {
+                "lat": 7.2833,
+                "url": "/td/caragabay_td/",
+                "lng": 126.5833,
+                "verbose_name": "Caraga Bay",
+                "station_id": "caragabay_td"
+            },
+            {
+                "lat": 10.0833,
+                "url": "/td/carcarbay_td/",
+                "lng": 123.65,
+                "verbose_name": "Carcar Bay",
+                "station_id": "carcarbay_td"
+            },
+            {
+                "lat": 11.3,
+                "url": "/td/carigara_td/",
+                "lng": 124.6833,
+                "verbose_name": "Carigara",
+                "station_id": "carigara_td"
+            },
+            {
+                "lat": 10.5833,
+                "url": "/td/carmen_td/",
+                "lng": 124.0167,
+                "verbose_name": "Carmen",
+                "station_id": "carmen_td"
+            },
+            {
+                "lat": 16.2333,
+                "url": "/td/casiguranbay_td/",
+                "lng": 122.1333,
+                "verbose_name": "Casiguran Bay",
+                "station_id": "casiguranbay_td"
+            },
+            {
+                "lat": 13.6,
+                "url": "/td/catanauan_td/",
+                "lng": 122.3167,
+                "verbose_name": "Catanauan",
+                "station_id": "catanauan_td"
+            },
+            {
+                "lat": 12.5167,
+                "url": "/td/catarmanriverentr_td/",
+                "lng": 124.65,
+                "verbose_name": "Catarman River Entr",
+                "station_id": "catarmanriverentr_td"
+            },
+            {
+                "lat": 11.7833,
+                "url": "/td/catbalogan_td/",
+                "lng": 124.8833,
+                "verbose_name": "Catbalogan",
+                "station_id": "catbalogan_td"
+            },
+            {
+                "lat": 14.4833,
+                "url": "/td/cavitemanilabay_td/",
+                "lng": 120.9167,
+                "verbose_name": "Cavite, Manila Bay",
+                "station_id": "cavitemanilabay_td"
+            },
+            {
+                "lat": 10.3,
+                "url": "/td/cebuphilippines_td/",
+                "lng": 123.9,
+                "verbose_name": "Cebu, Philippines",
+                "station_id": "cebuphilippines_td"
+            },
+            {
+                "lat": 18.6167,
+                "url": "/td/claveriabay_td/",
+                "lng": 121.1,
+                "verbose_name": "Claveria Bay",
+                "station_id": "claveriabay_td"
+            },
+            {
+                "lat": 9.8333,
+                "url": "/td/cogtonbay_td/",
+                "lng": 124.5167,
+                "verbose_name": "Cogton Bay",
+                "station_id": "cogtonbay_td"
+            },
+            {
+                "lat": 11.2167,
+                "url": "/td/concepcion_td/",
+                "lng": 123.1,
+                "verbose_name": "Concepcion",
+                "station_id": "concepcion_td"
+            },
+            {
+                "lat": 12.0167,
+                "url": "/td/coronbusuangaisland_td/",
+                "lng": 120.2,
+                "verbose_name": "Coron, Busuanga Island",
+                "station_id": "coronbusuangaisland_td"
+            },
+            {
+                "lat": 14.3833,
+                "url": "/td/corregidorislandmanilabay_td/",
+                "lng": 120.6,
+                "verbose_name": "Corregidor Island, Manila Bay",
+                "station_id": "corregidorislandmanilabay_td"
+            },
+            {
+                "lat": 7.2167,
+                "url": "/td/cotabatomindanaoriver_td/",
+                "lng": 124.25,
+                "verbose_name": "Cotabato, Mindanao River",
+                "station_id": "cotabatomindanaoriver_td"
+            },
+            {
+                "lat": 11.8833,
+                "url": "/td/culionculionisland_td/",
+                "lng": 120.0167,
+                "verbose_name": "Culion. Culion Island",
+                "station_id": "culionculionisland_td"
+            },
+            {
+                "lat": 10.85,
+                "url": "/td/cuyocuyoisland_td/",
+                "lng": 121,
+                "verbose_name": "Cuyo, Cuyo Island",
+                "station_id": "cuyocuyoisland_td"
+            },
+            {
+                "lat": 9.75,
+                "url": "/td/cuyomongantalaveraisland_td/",
+                "lng": 125.6833,
+                "verbose_name": "Cuyomongan, Talavera Island",
+                "station_id": "cuyomongantalaveraisland_td"
+            },
+            {
+                "lat": 9.45,
+                "url": "/td/dahikanbay_td/",
+                "lng": 125.9333,
+                "verbose_name": "Dahikan Bay",
+                "station_id": "dahikanbay_td"
+            },
+            {
+                "lat": 10.8167,
+                "url": "/td/danaoriverentr_td/",
+                "lng": 123.55,
+                "verbose_name": "Danao River Entr",
+                "station_id": "danaoriverentr_td"
+            },
+            {
+                "lat": 8.6667,
+                "url": "/td/dapitan_td/",
+                "lng": 123.4167,
+                "verbose_name": "Dapitan",
+                "station_id": "dapitan_td"
+            },
+            {
+                "lat": 6.7333,
+                "url": "/td/dassalanisland_td/",
+                "lng": 121.4667,
+                "verbose_name": "Dassalan Island",
+                "station_id": "dassalanisland_td"
+            },
+            {
+                "lat": 6.3,
+                "url": "/td/davaogulflavigananchorage_td/",
+                "lng": 126.1833,
+                "verbose_name": "Davao Gulf: Lavigan Anchorage",
+                "station_id": "davaogulflavigananchorage_td"
+            },
+            {
+                "lat": 6.6,
+                "url": "/td/davaogulfmalalag_td/",
+                "lng": 125.4167,
+                "verbose_name": "Davao Gulf: Malalag",
+                "station_id": "davaogulfmalalag_td"
+            },
+            {
+                "lat": 6.4167,
+                "url": "/td/davaogulfmalita_td/",
+                "lng": 125.6167,
+                "verbose_name": "Davao Gulf: Malita",
+                "station_id": "davaogulfmalita_td"
+            },
+            {
+                "lat": 6.6333,
+                "url": "/td/davaogulfsigaboyisland_td/",
+                "lng": 126.0667,
+                "verbose_name": "Davao Gulf: Sigaboy Island",
+                "station_id": "davaogulfsigaboyisland_td"
+            },
+            {
+                "lat": 7.0833,
+                "url": "/td/davaophilippines_td/",
+                "lng": 125.6333,
+                "verbose_name": "Davao, Philippines",
+                "station_id": "davaophilippines_td"
+            },
+            {
+                "lat": 16.4,
+                "url": "/td/diapitanbay_td/",
+                "lng": 122.2167,
+                "verbose_name": "Diapitan Bay",
+                "station_id": "diapitanbay_td"
+            },
+            {
+                "lat": 12.2,
+                "url": "/td/dimasalangnarobay_td/",
+                "lng": 123.85,
+                "verbose_name": "Dimasalang, Naro Bay",
+                "station_id": "dimasalangnarobay_td"
+            },
+            {
+                "lat": 9.9667,
+                "url": "/td/dinagatdinagatisland_td/",
+                "lng": 125.5833,
+                "verbose_name": "Dinagat, Dinagat Island",
+                "station_id": "dinagatdinagatisland_td"
+            },
+            {
+                "lat": 17.4167,
+                "url": "/td/divilacanbay_td/",
+                "lng": 122.2333,
+                "verbose_name": "Divilacan Bay",
+                "station_id": "divilacanbay_td"
+            },
+            {
+                "lat": 9.3,
+                "url": "/td/dumaguete_td/",
+                "lng": 123.3,
+                "verbose_name": "Dumaguete",
+                "station_id": "dumaguete_td"
+            },
+            {
+                "lat": 9.0833,
+                "url": "/td/eranbay_td/",
+                "lng": 117.7,
+                "verbose_name": "Eran Bay",
+                "station_id": "eranbay_td"
+            },
+            {
+                "lat": 11.4667,
+                "url": "/td/estancia_td/",
+                "lng": 123.15,
+                "verbose_name": "Estancia",
+                "station_id": "estancia_td"
+            },
+            {
+                "lat": 10.1833,
+                "url": "/td/gaasbaydinagatisland_td/",
+                "lng": 125.65,
+                "verbose_name": "Gaas Bay, Dinagat Island",
+                "station_id": "gaasbaydinagatisland_td"
+            },
+            {
+                "lat": 5.1333,
+                "url": "/td/gallomalochannelsouthentr_td/",
+                "lng": 120.2333,
+                "verbose_name": "Gallo Malo Channel (South Entr)",
+                "station_id": "gallomalochannelsouthentr_td"
+            },
+            {
+                "lat": 9.6167,
+                "url": "/td/garciahernandez_td/",
+                "lng": 124.3,
+                "verbose_name": "Garcia Hernandez",
+                "station_id": "garciahernandez_td"
+            },
+            {
+                "lat": 11.7,
+                "url": "/td/genuruanislandbiliranisland_td/",
+                "lng": 124.35,
+                "verbose_name": "Genuruan Island, Biliran Island",
+                "station_id": "genuruanislandbiliranisland_td"
+            },
+            {
+                "lat": 13.9,
+                "url": "/td/ginayanganragaygulf_td/",
+                "lng": 122.45,
+                "verbose_name": "Ginayangan, Ragay Gulf",
+                "station_id": "ginayanganragaygulf_td"
+            },
+            {
+                "lat": 12.9167,
+                "url": "/td/gubat_td/",
+                "lng": 124.1333,
+                "verbose_name": "Gubat",
+                "station_id": "gubat_td"
+            },
+            {
+                "lat": 12.1667,
+                "url": "/td/guimbiravantablasisland_td/",
+                "lng": 122.0333,
+                "verbose_name": "Guimbiravan, Tablas Island",
+                "station_id": "guimbiravantablasisland_td"
+            },
+            {
+                "lat": 14.4167,
+                "url": "/td/guintinuaislandcalaguaisls_td/",
+                "lng": 122.9333,
+                "verbose_name": "Guintinua Island, Calagua Isls",
+                "station_id": "guintinuaislandcalaguaisls_td"
+            },
+            {
+                "lat": 11.0333,
+                "url": "/td/guiuan_td/",
+                "lng": 125.7167,
+                "verbose_name": "Guiuan",
+                "station_id": "guiuan_td"
+            },
+            {
+                "lat": 11.7833,
+                "url": "/td/halseyharborculionisland_td/",
+                "lng": 119.9667,
+                "verbose_name": "Halsey Harbor, Culion Island",
+                "station_id": "halseyharborculionisland_td"
+            },
+            {
+                "lat": 12.3,
+                "url": "/td/helmharborgamaybay_td/",
+                "lng": 125.35,
+                "verbose_name": "Helm Harbor, Gamay Bay",
+                "station_id": "helmharborgamaybay_td"
+            },
+            {
+                "lat": 12.0333,
+                "url": "/td/hilabanisland_td/",
+                "lng": 125.5667,
+                "verbose_name": "Hilaban Island",
+                "station_id": "hilabanisland_td"
+            },
+            {
+                "lat": 10.1,
+                "url": "/td/himamaylan_td/",
+                "lng": 122.8667,
+                "verbose_name": "Himamaylan",
+                "station_id": "himamaylan_td"
+            },
+            {
+                "lat": 10.95,
+                "url": "/td/himugaanriverentr_td/",
+                "lng": 123.4,
+                "verbose_name": "Himugaan River Entr",
+                "station_id": "himugaanriverentr_td"
+            },
+            {
+                "lat": 8.3667,
+                "url": "/td/hinatuan_td/",
+                "lng": 126.3333,
+                "verbose_name": "Hinatuan",
+                "station_id": "hinatuan_td"
+            },
+            {
+                "lat": 10.4,
+                "url": "/td/hinunangan_td/",
+                "lng": 125.2,
+                "verbose_name": "Hinunangan",
+                "station_id": "hinunangan_td"
+            },
+            {
+                "lat": 13.7833,
+                "url": "/td/hitomacatanduancesisland_td/",
+                "lng": 124.1333,
+                "verbose_name": "Hitoma, Catanduances Island",
+                "station_id": "hitomacatanduancesisland_td"
+            },
+            {
+                "lat": 14.95,
+                "url": "/td/hookbaypolilloisland_td/",
+                "lng": 121.8333,
+                "verbose_name": "Hook Bay, Polillo Island",
+                "station_id": "hookbaypolilloisland_td"
+            },
+            {
+                "lat": 8.2333,
+                "url": "/td/iliganbayiligan_td/",
+                "lng": 124.2333,
+                "verbose_name": "Iligan Bay: Iligan",
+                "station_id": "iliganbayiligan_td"
+            },
+            {
+                "lat": 8.3333,
+                "url": "/td/iliganbayjiminez_td/",
+                "lng": 123.85,
+                "verbose_name": "Iligan Bay: Jiminez",
+                "station_id": "iliganbayjiminez_td"
+            },
+            {
+                "lat": 8.15,
+                "url": "/td/iliganbaymisamis_td/",
+                "lng": 123.85,
+                "verbose_name": "Iligan Bay: Misamis",
+                "station_id": "iliganbaymisamis_td"
+            },
+            {
+                "lat": 8.4833,
+                "url": "/td/iliganbayoriquieta_td/",
+                "lng": 123.8,
+                "verbose_name": "Iligan Bay: Oriquieta",
+                "station_id": "iliganbayoriquieta_td"
+            },
+            {
+                "lat": 7.4667,
+                "url": "/td/illanabaylimbugcove_td/",
+                "lng": 123.4,
+                "verbose_name": "Illana Bay: Limbug Cove",
+                "station_id": "illanabaylimbugcove_td"
+            },
+            {
+                "lat": 7.8167,
+                "url": "/td/illanabaypagadian_td/",
+                "lng": 123.45,
+                "verbose_name": "Illana Bay: Pagadian",
+                "station_id": "illanabaypagadian_td"
+            },
+            {
+                "lat": 7.35,
+                "url": "/td/illanabaypollocharbor_td/",
+                "lng": 124.2167,
+                "verbose_name": "Illana Bay: Polloc Harbor",
+                "station_id": "illanabaypollocharbor_td"
+            },
+            {
+                "lat": 7.6333,
+                "url": "/td/illanabayportbaras_td/",
+                "lng": 124.0167,
+                "verbose_name": "Illana Bay: Port Baras",
+                "station_id": "illanabayportbaras_td"
+            },
+            {
+                "lat": 7.5333,
+                "url": "/td/illanabayportsambulauan_td/",
+                "lng": 123.4,
+                "verbose_name": "Illana Bay: Port Sambulauan",
+                "station_id": "illanabayportsambulauan_td"
+            },
+            {
+                "lat": 7.85,
+                "url": "/td/illanabaytukuran_td/",
+                "lng": 123.5833,
+                "verbose_name": "Illana Bay: Tukuran",
+                "station_id": "illanabaytukuran_td"
+            },
+            {
+                "lat": 10.7,
+                "url": "/td/iloilo_td/",
+                "lng": 122.5667,
+                "verbose_name": "Iloilo",
+                "station_id": "iloilo_td"
+            },
+            {
+                "lat": 10.45,
+                "url": "/td/inampuluganislandguimarasisland_td/",
+                "lng": 122.7167,
+                "verbose_name": "Inampulugan Island, Guimaras Island",
+                "station_id": "inampuluganislandguimarasisland_td"
+            },
+            {
+                "lat": 6.7,
+                "url": "/td/isabelabasilianisland_td/",
+                "lng": 121.9667,
+                "verbose_name": "Isabela, Basilian Island",
+                "station_id": "isabelabasilianisland_td"
+            },
+            {
+                "lat": 9.1,
+                "url": "/td/islandbay_td/",
+                "lng": 118.1167,
+                "verbose_name": "Island Bay",
+                "station_id": "islandbay_td"
+            },
+            {
+                "lat": 6.0667,
+                "url": "/td/jolophilippines_td/",
+                "lng": 121,
+                "verbose_name": "Jolo, Philippines",
+                "station_id": "jolophilippines_td"
+            },
+            {
+                "lat": 5.65,
+                "url": "/td/lahatlahatisland_td/",
+                "lng": 120.2833,
+                "verbose_name": "Lahatlahat Island",
+                "station_id": "lahatlahatisland_td"
+            },
+            {
+                "lat": 14.0167,
+                "url": "/td/lamonbayapatbay_td/",
+                "lng": 122.3167,
+                "verbose_name": "Lamon Bay: Apat Bay",
+                "station_id": "lamonbayapatbay_td"
+            },
+            {
+                "lat": 14,
+                "url": "/td/lamonbayatimonan_td/",
+                "lng": 121.9167,
+                "verbose_name": "Lamon Bay: Atimonan",
+                "station_id": "lamonbayatimonan_td"
+            },
+            {
+                "lat": 14.3333,
+                "url": "/td/lamonbaycapalonga_td/",
+                "lng": 122.4833,
+                "verbose_name": "Lamon Bay: Capalonga",
+                "station_id": "lamonbaycapalonga_td"
+            },
+            {
+                "lat": 14.6667,
+                "url": "/td/lamonbayportlampon_td/",
+                "lng": 121.6167,
+                "verbose_name": "Lamon Bay: Port Lampon",
+                "station_id": "lamonbayportlampon_td"
+            },
+            {
+                "lat": 14.2,
+                "url": "/td/lamonbaysangirinbay_td/",
+                "lng": 121.9167,
+                "verbose_name": "Lamon Bay: Sangirin Bay",
+                "station_id": "lamonbaysangirinbay_td"
+            },
+            {
+                "lat": 6.95,
+                "url": "/td/landangsacolisland_td/",
+                "lng": 122.25,
+                "verbose_name": "Landang, Sacol Island",
+                "station_id": "landangsacolisland_td"
+            },
+            {
+                "lat": 18.2167,
+                "url": "/td/laoagriverentr_td/",
+                "lng": 120.5167,
+                "verbose_name": "Laoag River Entr",
+                "station_id": "laoagriverentr_td"
+            },
+            {
+                "lat": 12.5667,
+                "url": "/td/laoanglaoangisland_td/",
+                "lng": 125.0167,
+                "verbose_name": "Laoang, Laoang Island",
+                "station_id": "laoanglaoangisland_td"
+            },
+            {
+                "lat": 9.25,
+                "url": "/td/larenasiquijorisland_td/",
+                "lng": 123.5833,
+                "verbose_name": "Larena, Siquijor Island",
+                "station_id": "larenasiquijorisland_td"
+            },
+            {
+                "lat": 13.15,
+                "url": "/td/legaspiphilippines_td/",
+                "lng": 123.75,
+                "verbose_name": "Legaspi, Philippines",
+                "station_id": "legaspiphilippines_td"
+            },
+            {
+                "lat": 11.6,
+                "url": "/td/libascapizlanding_td/",
+                "lng": 122.7167,
+                "verbose_name": "Libas (Capiz Landing)",
+                "station_id": "libascapizlanding_td"
+            },
+            {
+                "lat": 10.15,
+                "url": "/td/liloansogodbay_td/",
+                "lng": 125.1167,
+                "verbose_name": "Liloan, Sogod Bay",
+                "station_id": "liloansogodbay_td"
+            },
+            {
+                "lat": 6.3167,
+                "url": "/td/linawanisland_td/",
+                "lng": 121.9333,
+                "verbose_name": "Linawan Island",
+                "station_id": "linawanisland_td"
+            },
+            {
+                "lat": 12.2667,
+                "url": "/td/looctablasisland_td/",
+                "lng": 122,
+                "verbose_name": "Looc, Tablas Island",
+                "station_id": "looctablasisland_td"
+            },
+            {
+                "lat": 10.4167,
+                "url": "/td/lugmayanpointguimarasisland_td/",
+                "lng": 122.5333,
+                "verbose_name": "Lugmayan Point, Guimaras Island",
+                "station_id": "lugmayanpointguimarasisland_td"
+            },
+            {
+                "lat": 10.1333,
+                "url": "/td/maasin_td/",
+                "lng": 124.8333,
+                "verbose_name": "Maasin",
+                "station_id": "maasin_td"
+            },
+            {
+                "lat": 8.5,
+                "url": "/td/macabalanptmacajalarbay_td/",
+                "lng": 124.6667,
+                "verbose_name": "Macabalan Pt, Macajalar Bay",
+                "station_id": "macabalanptmacajalarbay_td"
+            },
+            {
+                "lat": 5.9167,
+                "url": "/td/maimbungjoloisland_td/",
+                "lng": 121.0167,
+                "verbose_name": "Maimbung, Jolo Island",
+                "station_id": "maimbungjoloisland_td"
+            },
+            {
+                "lat": 7.5333,
+                "url": "/td/maligaybay_td/",
+                "lng": 123.25,
+                "verbose_name": "Maligay Bay",
+                "station_id": "maligaybay_td"
+            },
+            {
+                "lat": 10.25,
+                "url": "/td/malinaoinletdinagatisland_td/",
+                "lng": 125.6333,
+                "verbose_name": "Malinao Inlet, Dinagat Island",
+                "station_id": "malinaoinletdinagatisland_td"
+            },
+            {
+                "lat": 9.25,
+                "url": "/td/mambajaocamiguinisland_td/",
+                "lng": 124.7167,
+                "verbose_name": "Mambajao, Camiguin Island",
+                "station_id": "mambajaocamiguinisland_td"
+            },
+            {
+                "lat": 12.35,
+                "url": "/td/mangarin_td/",
+                "lng": 121.1,
+                "verbose_name": "Mangarin",
+                "station_id": "mangarin_td"
+            },
+            {
+                "lat": 14.5833,
+                "url": "/td/manilaphilippines_td/",
+                "lng": 120.9667,
+                "verbose_name": "Manila, Philippines",
+                "station_id": "manilaphilippines_td"
+            },
+            {
+                "lat": 12.5167,
+                "url": "/td/mansalay_td/",
+                "lng": 121.4333,
+                "verbose_name": "Mansalay",
+                "station_id": "mansalay_td"
+            },
+            {
+                "lat": 7.5833,
+                "url": "/td/margosatubigdumanquilasbay_td/",
+                "lng": 123.1667,
+                "verbose_name": "Margosatubig, Dumanquilas Bay",
+                "station_id": "margosatubigdumanquilasbay_td"
+            },
+            {
+                "lat": 9.7333,
+                "url": "/td/maribojoc_td/",
+                "lng": 123.8333,
+                "verbose_name": "Maribojoc",
+                "station_id": "maribojoc_td"
+            },
+            {
+                "lat": 12.3667,
+                "url": "/td/masbate_td/",
+                "lng": 123.6167,
+                "verbose_name": "Masbate",
+                "station_id": "masbate_td"
+            },
+            {
+                "lat": 11.2333,
+                "url": "/td/matarinaobay_td/",
+                "lng": 125.5833,
+                "verbose_name": "Matarinao Bay",
+                "station_id": "matarinaobay_td"
+            },
+            {
+                "lat": 6.95,
+                "url": "/td/matipujadabay_td/",
+                "lng": 126.2167,
+                "verbose_name": "Mati, Pujada Bay",
+                "station_id": "matipujadabay_td"
+            },
+            {
+                "lat": 12.4333,
+                "url": "/td/mauo_td/",
+                "lng": 124.3167,
+                "verbose_name": "Mauo",
+                "station_id": "mauo_td"
+            },
+            {
+                "lat": 11.1333,
+                "url": "/td/medellin_td/",
+                "lng": 123.9667,
+                "verbose_name": "Medellin",
+                "station_id": "medellin_td"
+            },
+            {
+                "lat": 10.0667,
+                "url": "/td/megardinagatisland_td/",
+                "lng": 125.5167,
+                "verbose_name": "Megar, Dinagat Island",
+                "station_id": "megardinagatisland_td"
+            },
+            {
+                "lat": 14.1167,
+                "url": "/td/mercedes_td/",
+                "lng": 123.0167,
+                "verbose_name": "Mercedes",
+                "station_id": "mercedes_td"
+            },
+            {
+                "lat": 10.6333,
+                "url": "/td/miagao_td/",
+                "lng": 122.2333,
+                "verbose_name": "Miagao",
+                "station_id": "miagao_td"
+            },
+            {
+                "lat": 9.9333,
+                "url": "/td/moalboal_td/",
+                "lng": 123.4,
+                "verbose_name": "Moalboal",
+                "station_id": "moalboal_td"
+            },
+            {
+                "lat": 8.6333,
+                "url": "/td/murcielagos_td/",
+                "lng": 123.5667,
+                "verbose_name": "Murcielagos",
+                "station_id": "murcielagos_td"
+            },
+            {
+                "lat": 18.8667,
+                "url": "/td/musabayfugaisland_td/",
+                "lng": 121.2833,
+                "verbose_name": "Musa Bay, Fuga Island",
+                "station_id": "musabayfugaisland_td"
+            },
+            {
+                "lat": 18.4833,
+                "url": "/td/nagabunganbay_td/",
+                "lng": 120.5667,
+                "verbose_name": "Nagabungan Bay",
+                "station_id": "nagabunganbay_td"
+            },
+            {
+                "lat": 8.9833,
+                "url": "/td/nasipitharborbutuanbay_td/",
+                "lng": 125.3333,
+                "verbose_name": "Nasipit Harbor, Butuan Bay",
+                "station_id": "nasipitharborbutuanbay_td"
+            },
+            {
+                "lat": 10.7333,
+                "url": "/td/navalesguimarasisland_td/",
+                "lng": 122.6833,
+                "verbose_name": "Navales, Guimaras Island",
+                "station_id": "navalesguimarasisland_td"
+            },
+            {
+                "lat": 12.2333,
+                "url": "/td/ninbay_td/",
+                "lng": 123.2833,
+                "verbose_name": "Nin Bay",
+                "station_id": "ninbay_td"
+            },
+            {
+                "lat": 11.4667,
+                "url": "/td/northwestbaylinapacanisland_td/",
+                "lng": 119.7667,
+                "verbose_name": "Northwest Bay, Linapacan Island",
+                "station_id": "northwestbaylinapacanisland_td"
+            },
+            {
+                "lat": 14.8167,
+                "url": "/td/olongaposubicbay_td/",
+                "lng": 120.2833,
+                "verbose_name": "Olongapo, Subic Bay",
+                "station_id": "olongaposubicbay_td"
+            },
+            {
+                "lat": 11,
+                "url": "/td/ormoc_td/",
+                "lng": 124.6,
+                "verbose_name": "Ormoc",
+                "station_id": "ormoc_td"
+            },
+            {
+                "lat": 11.05,
+                "url": "/td/palompon_td/",
+                "lng": 124.3833,
+                "verbose_name": "Palompon",
+                "station_id": "palompon_td"
+            },
+            {
+                "lat": 13.4167,
+                "url": "/td/paluan_td/",
+                "lng": 120.4667,
+                "verbose_name": "Paluan",
+                "station_id": "paluan_td"
+            },
+            {
+                "lat": 10.7,
+                "url": "/td/palyisland_td/",
+                "lng": 119.7,
+                "verbose_name": "Paly Island",
+                "station_id": "palyisland_td"
+            },
+            {
+                "lat": 7.5833,
+                "url": "/td/panabutanbay_td/",
+                "lng": 122.1333,
+                "verbose_name": "Panabutan Bay",
+                "station_id": "panabutanbay_td"
+            },
+            {
+                "lat": 6.25,
+                "url": "/td/pangutaranisland_td/",
+                "lng": 120.5,
+                "verbose_name": "Pangutaran Island",
+                "station_id": "pangutaranisland_td"
+            },
+            {
+                "lat": 11.7,
+                "url": "/td/parasanharbordaramisland_td/",
+                "lng": 124.75,
+                "verbose_name": "Parasan Harbor, Daram Island",
+                "station_id": "parasanharbordaramisland_td"
+            },
+            {
+                "lat": 13.5,
+                "url": "/td/pasacaoragaygulf_td/",
+                "lng": 123.0333,
+                "verbose_name": "Pasacao, Ragay Gulf",
+                "station_id": "pasacaoragaygulf_td"
+            },
+            {
+                "lat": 18.4,
+                "url": "/td/patununganbayphilippines_td/",
+                "lng": 122.3,
+                "verbose_name": "Patunungan Bay, Philippines",
+                "station_id": "patununganbayphilippines_td"
+            },
+            {
+                "lat": 5.85,
+                "url": "/td/pearlbank_td/",
+                "lng": 119.7333,
+                "verbose_name": "Pearl Bank",
+                "station_id": "pearlbank_td"
+            },
+            {
+                "lat": 13.7833,
+                "url": "/td/pitogo_td/",
+                "lng": 122.0833,
+                "verbose_name": "Pitogo",
+                "station_id": "pitogo_td"
+            },
+            {
+                "lat": 8.6167,
+                "url": "/td/plaridellangaran_td/",
+                "lng": 123.7167,
+                "verbose_name": "Plaridel (Langaran)",
+                "station_id": "plaridellangaran_td"
+            },
+            {
+                "lat": 14.7167,
+                "url": "/td/polillopolilloisland_td/",
+                "lng": 121.9333,
+                "verbose_name": "Polillo, Polillo Island",
+                "station_id": "polillopolilloisland_td"
+            },
+            {
+                "lat": 11.4667,
+                "url": "/td/poroislandbiliranstr_td/",
+                "lng": 124.4833,
+                "verbose_name": "Poro Island, Biliran Str",
+                "station_id": "poroislandbiliranstr_td"
+            },
+            {
+                "lat": 13.95,
+                "url": "/td/portanajaocatanduancesisland_td/",
+                "lng": 124.3333,
+                "verbose_name": "Port Anajao, Catanduances Island",
+                "station_id": "portanajaocatanduancesisland_td"
+            },
+            {
+                "lat": 13.5333,
+                "url": "/td/portbalanacan_td/",
+                "lng": 121.8667,
+                "verbose_name": "Port Balanacan",
+                "station_id": "portbalanacan_td"
+            },
+            {
+                "lat": 7.5167,
+                "url": "/td/portbangasibugueybay_td/",
+                "lng": 122.4167,
+                "verbose_name": "Port Banga, SibugueyBay",
+                "station_id": "portbangasibugueybay_td"
+            },
+            {
+                "lat": 12.5,
+                "url": "/td/portbarrera_td/",
+                "lng": 123.3667,
+                "verbose_name": "Port Barrera",
+                "station_id": "portbarrera_td"
+            },
+            {
+                "lat": 10.4667,
+                "url": "/td/portbarton_td/",
+                "lng": 119.1333,
+                "verbose_name": "Port Barton",
+                "station_id": "portbarton_td"
+            },
+            {
+                "lat": 11.1,
+                "url": "/td/portbatan_td/",
+                "lng": 122.5,
+                "verbose_name": "Port Batan",
+                "station_id": "portbatan_td"
+            },
+            {
+                "lat": 17.2833,
+                "url": "/td/portbicobian_td/",
+                "lng": 122.4167,
+                "verbose_name": "Port Bicobian",
+                "station_id": "portbicobian_td"
+            },
+            {
+                "lat": 12.7833,
+                "url": "/td/portbocaenganoburiasisland_td/",
+                "lng": 123.3167,
+                "verbose_name": "Port Boca Engano, Burias Island",
+                "station_id": "portbocaenganoburiasisland_td"
+            },
+            {
+                "lat": 9.05,
+                "url": "/td/portbonbonon_td/",
+                "lng": 123.1167,
+                "verbose_name": "Port Bonbonon",
+                "station_id": "portbonbonon_td"
+            },
+            {
+                "lat": 5.0333,
+                "url": "/td/portbongaotawitawiisland_td/",
+                "lng": 119.7667,
+                "verbose_name": "Port Bongao, Tawitawi Island",
+                "station_id": "portbongaotawitawiisland_td"
+            },
+            {
+                "lat": 12,
+                "url": "/td/portcataingan_td/",
+                "lng": 124,
+                "verbose_name": "Port Cataingan",
+                "station_id": "portcataingan_td"
+            },
+            {
+                "lat": 12.9167,
+                "url": "/td/portconcepcionmaestredecampoi_td/",
+                "lng": 121.7333,
+                "verbose_name": "Port Concepcion, Maestre de Campo I",
+                "station_id": "portconcepcionmaestredecampoi_td"
+            },
+            {
+                "lat": 13.5167,
+                "url": "/td/portgalera_td/",
+                "lng": 120.9667,
+                "verbose_name": "Port Galera",
+                "station_id": "portgalera_td"
+            },
+            {
+                "lat": 6.55,
+                "url": "/td/porthollandbasilianisland_td/",
+                "lng": 121.8667,
+                "verbose_name": "Port Holland, Basilian Island",
+                "station_id": "porthollandbasilianisland_td"
+            },
+            {
+                "lat": 14.3,
+                "url": "/td/portjosepanganiban_td/",
+                "lng": 122.6833,
+                "verbose_name": "Port Jose Panganiban",
+                "station_id": "portjosepanganiban_td"
+            },
+            {
+                "lat": 6.5333,
+                "url": "/td/portlebak_td/",
+                "lng": 124.05,
+                "verbose_name": "Port Lebak",
+                "station_id": "portlebak_td"
+            },
+            {
+                "lat": 15.5167,
+                "url": "/td/portmasinloc_td/",
+                "lng": 119.9167,
+                "verbose_name": "Port Masinloc",
+                "station_id": "portmasinloc_td"
+            },
+            {
+                "lat": 9.8667,
+                "url": "/td/portpilarsiargaoisland_td/",
+                "lng": 126.1,
+                "verbose_name": "Port Pilar, Siargao Island",
+                "station_id": "portpilarsiargaoisland_td"
+            },
+            {
+                "lat": 13.5167,
+                "url": "/td/portpusgo_td/",
+                "lng": 122.6,
+                "verbose_name": "Port Pusgo",
+                "station_id": "portpusgo_td"
+            },
+            {
+                "lat": 12.6667,
+                "url": "/td/portsanmiguelticaoisland_td/",
+                "lng": 123.5833,
+                "verbose_name": "Port San Miguel, Ticao Island",
+                "station_id": "portsanmiguelticaoisland_td"
+            },
+            {
+                "lat": 18.9,
+                "url": "/td/portsanpioquintocamiguinisland_td/",
+                "lng": 121.8667,
+                "verbose_name": "Port San Pio Quinto, Camiguin Island",
+                "station_id": "portsanpioquintocamiguinisland_td"
+            },
+            {
+                "lat": 18.5167,
+                "url": "/td/portsanvicente_td/",
+                "lng": 122.1333,
+                "verbose_name": "Port San Vicente",
+                "station_id": "portsanvicente_td"
+            },
+            {
+                "lat": 7.7667,
+                "url": "/td/portsantamaria_td/",
+                "lng": 122.1167,
+                "verbose_name": "Port Santa Maria",
+                "station_id": "portsantamaria_td"
+            },
+            {
+                "lat": 5.55,
+                "url": "/td/portsiasisiasiisland_td/",
+                "lng": 120.8167,
+                "verbose_name": "Port Siasi, Siasi Island",
+                "station_id": "portsiasisiasiisland_td"
+            },
+            {
+                "lat": 7.4333,
+                "url": "/td/portsibulan_td/",
+                "lng": 122.8833,
+                "verbose_name": "Port Sibulan",
+                "station_id": "portsibulan_td"
+            },
+            {
+                "lat": 14.7667,
+                "url": "/td/portsilanguin_td/",
+                "lng": 120.1167,
+                "verbose_name": "Port Silanguin",
+                "station_id": "portsilanguin_td"
+            },
+            {
+                "lat": 13.8167,
+                "url": "/td/porttiliglubangisland_td/",
+                "lng": 120.2,
+                "verbose_name": "Port Tilig, Lubang Island",
+                "station_id": "porttiliglubangisland_td"
+            },
+            {
+                "lat": 9.7333,
+                "url": "/td/puertoprincesa_td/",
+                "lng": 118.7167,
+                "verbose_name": "Puerto Princesa",
+                "station_id": "puertoprincesa_td"
+            },
+            {
+                "lat": 12.5833,
+                "url": "/td/romblonromblonisland_td/",
+                "lng": 122.2667,
+                "verbose_name": "Romblon, Romblon Island",
+                "station_id": "romblonromblonisland_td"
+            },
+            {
+                "lat": 12.8333,
+                "url": "/td/sablayan_td/",
+                "lng": 120.7667,
+                "verbose_name": "Sablayan",
+                "station_id": "sablayan_td"
+            },
+            {
+                "lat": 17.7833,
+                "url": "/td/salomague_td/",
+                "lng": 120.4167,
+                "verbose_name": "Salomague",
+                "station_id": "salomague_td"
+            },
+            {
+                "lat": 12.75,
+                "url": "/td/sanbernardinoisland_td/",
+                "lng": 124.2833,
+                "verbose_name": "San Bernardino Island",
+                "station_id": "sanbernardinoisland_td"
+            },
+            {
+                "lat": 10.4833,
+                "url": "/td/sancarlos_td/",
+                "lng": 123.4167,
+                "verbose_name": "San Carlos",
+                "station_id": "sancarlos_td"
+            },
+            {
+                "lat": 16.6167,
+                "url": "/td/sanfernandophilippines_td/",
+                "lng": 120.3,
+                "verbose_name": "San Fernando, Philippines",
+                "station_id": "sanfernandophilippines_td"
+            },
+            {
+                "lat": 12.5667,
+                "url": "/td/sanjacintoticaoisland_td/",
+                "lng": 123.7333,
+                "verbose_name": "San Jacinto, Ticao Island",
+                "station_id": "sanjacintoticaoisland_td"
+            },
+            {
+                "lat": 10.7333,
+                "url": "/td/sanjose_td/",
+                "lng": 121.9333,
+                "verbose_name": "San Jose",
+                "station_id": "sanjose_td"
+            },
+            {
+                "lat": 9.7333,
+                "url": "/td/sanmiguelebugasisland_td/",
+                "lng": 126.0333,
+                "verbose_name": "San Miguel, E. Bugas Island",
+                "station_id": "sanmiguelebugasisland_td"
+            },
+            {
+                "lat": 11.5,
+                "url": "/td/sanmiguellinacapanisland_td/",
+                "lng": 119.8667,
+                "verbose_name": "San Miguel, Linacapan Island",
+                "station_id": "sanmiguellinacapanisland_td"
+            },
+            {
+                "lat": 11.45,
+                "url": "/td/sannicolaslinapacanisland_td/",
+                "lng": 119.8167,
+                "verbose_name": "San Nicolas, Linapacan Island",
+                "station_id": "sannicolaslinapacanisland_td"
+            },
+            {
+                "lat": 13.1333,
+                "url": "/td/sanpascualburiasisland_td/",
+                "lng": 122.9833,
+                "verbose_name": "San Pascual, Burias Island",
+                "station_id": "sanpascualburiasisland_td"
+            },
+            {
+                "lat": 10.1,
+                "url": "/td/sanroquedinagatisland_td/",
+                "lng": 125.4833,
+                "verbose_name": "San Roque, Dinagat Island",
+                "station_id": "sanroquedinagatisland_td"
+            },
+            {
+                "lat": 15.7667,
+                "url": "/td/santacruz_td/",
+                "lng": 119.9,
+                "verbose_name": "Santa Cruz",
+                "station_id": "santacruz_td"
+            },
+            {
+                "lat": 13.5,
+                "url": "/td/santacruzharbor_td/",
+                "lng": 122.0667,
+                "verbose_name": "Santa Cruz Harbor",
+                "station_id": "santacruzharbor_td"
+            },
+            {
+                "lat": 11.4333,
+                "url": "/td/santaritaislsanjuanicostr_td/",
+                "lng": 124.9667,
+                "verbose_name": "Santa Rita Isl, San Juanico Str",
+                "station_id": "santaritaislsanjuanicostr_td"
+            },
+            {
+                "lat": 11.9333,
+                "url": "/td/santoninosantoninoisland_td/",
+                "lng": 124.45,
+                "verbose_name": "Santo Nino, Santo Nino Island",
+                "station_id": "santoninosantoninoisland_td"
+            },
+            {
+                "lat": 16.2833,
+                "url": "/td/santotomaslingayengulf_td/",
+                "lng": 120.3833,
+                "verbose_name": "Santo Tomas, Lingayen Gulf",
+                "station_id": "santotomaslingayengulf_td"
+            },
+            {
+                "lat": 5.8333,
+                "url": "/td/saranganibay_td/",
+                "lng": 125.2,
+                "verbose_name": "Sarangani Bay",
+                "station_id": "saranganibay_td"
+            },
+            {
+                "lat": 5.4167,
+                "url": "/td/saranganiisland_td/",
+                "lng": 125.45,
+                "verbose_name": "Sarangani Island",
+                "station_id": "saranganiisland_td"
+            },
+            {
+                "lat": 8.1833,
+                "url": "/td/secamislandnbalabcstr_td/",
+                "lng": 117.0167,
+                "verbose_name": "Secam Island, N. Balabc Str",
+                "station_id": "secamislandnbalabcstr_td"
+            },
+            {
+                "lat": 7.3167,
+                "url": "/td/sibucobay_td/",
+                "lng": 122.0667,
+                "verbose_name": "Sibuco Bay",
+                "station_id": "sibucobay_td"
+            },
+            {
+                "lat": 5.9667,
+                "url": "/td/simisaisland_td/",
+                "lng": 121.5667,
+                "verbose_name": "Simisa Island",
+                "station_id": "simisaisland_td"
+            },
+            {
+                "lat": 8.7667,
+                "url": "/td/sirjbrookepoint_td/",
+                "lng": 117.8333,
+                "verbose_name": "Sir J. Brooke Point",
+                "station_id": "sirjbrookepoint_td"
+            },
+            {
+                "lat": 13.9333,
+                "url": "/td/sisiranbay_td/",
+                "lng": 123.65,
+                "verbose_name": "Sisiran Bay",
+                "station_id": "sisiranbay_td"
+            },
+            {
+                "lat": 9.6,
+                "url": "/td/sohutanbaybucasgrandeisland_td/",
+                "lng": 125.9167,
+                "verbose_name": "Sohutan Bay, Bucas Grande Island",
+                "station_id": "sohutanbaybucasgrandeisland_td"
+            },
+            {
+                "lat": 17.45,
+                "url": "/td/solveccove_td/",
+                "lng": 120.45,
+                "verbose_name": "Solvec Cove",
+                "station_id": "solveccove_td"
+            },
+            {
+                "lat": 12.9667,
+                "url": "/td/sorsogon_td/",
+                "lng": 124,
+                "verbose_name": "Sorsogon",
+                "station_id": "sorsogon_td"
+            },
+            {
+                "lat": 5.2,
+                "url": "/td/southubianisland_td/",
+                "lng": 120.5,
+                "verbose_name": "South Ubian Island",
+                "station_id": "southubianisland_td"
+            },
+            {
+                "lat": 16.0667,
+                "url": "/td/suallingayengulf_td/",
+                "lng": 120.1,
+                "verbose_name": "Sual, Lingayen Gulf",
+                "station_id": "suallingayengulf_td"
+            },
+            {
+                "lat": 9.8,
+                "url": "/td/surigao_td/",
+                "lng": 125.4833,
+                "verbose_name": "Surigao",
+                "station_id": "surigao_td"
+            },
+            {
+                "lat": 7.5833,
+                "url": "/td/tababaysibugueybay_td/",
+                "lng": 122.7833,
+                "verbose_name": "Taba Bay, Sibuguey Bay",
+                "station_id": "tababaysibugueybay_td"
+            },
+            {
+                "lat": 13.3667,
+                "url": "/td/tabacotabacobay_td/",
+                "lng": 123.7333,
+                "verbose_name": "Tabaco, Tabaco Bay",
+                "station_id": "tabacotabacobay_td"
+            },
+            {
+                "lat": 13.8333,
+                "url": "/td/tabgonbay_td/",
+                "lng": 123.8167,
+                "verbose_name": "Tabgon Bay",
+                "station_id": "tabgonbay_td"
+            },
+            {
+                "lat": 11.25,
+                "url": "/td/taclobanphilippines_td/",
+                "lng": 125,
+                "verbose_name": "Tacloban, Philippines",
+                "station_id": "taclobanphilippines_td"
+            },
+            {
+                "lat": 11.25,
+                "url": "/td/taclobansanjuanicostr_td/",
+                "lng": 125,
+                "verbose_name": "Tacloban, San Juanico Str",
+                "station_id": "taclobansanjuanicostr_td"
+            },
+            {
+                "lat": 8.7,
+                "url": "/td/tagbitabay_td/",
+                "lng": 117.3333,
+                "verbose_name": "Tagbita Bay",
+                "station_id": "tagbitabay_td"
+            },
+            {
+                "lat": 11.5333,
+                "url": "/td/talalora_td/",
+                "lng": 124.8333,
+                "verbose_name": "Talalora",
+                "station_id": "talalora_td"
+            },
+            {
+                "lat": 12.65,
+                "url": "/td/talisayisland_td/",
+                "lng": 124.4167,
+                "verbose_name": "Talisay Island",
+                "station_id": "talisayisland_td"
+            },
+            {
+                "lat": 9.0833,
+                "url": "/td/tandag_td/",
+                "lng": 126.2,
+                "verbose_name": "Tandag",
+                "station_id": "tandag_td"
+            },
+            {
+                "lat": 5.2167,
+                "url": "/td/tanduganchanneltawitawiisland_td/",
+                "lng": 120.3167,
+                "verbose_name": "Tandugan Channel, Tawitawi Island",
+                "station_id": "tanduganchanneltawitawiisland_td"
+            },
+            {
+                "lat": 5.25,
+                "url": "/td/tataanpasstawitawiislland_td/",
+                "lng": 119.95,
+                "verbose_name": "Tataan Pass, Tawitawi Islland",
+                "station_id": "tataanpasstawitawiislland_td"
+            },
+            {
+                "lat": 13.9,
+                "url": "/td/tayabasriverentr_td/",
+                "lng": 121.6,
+                "verbose_name": "Tayabas River Entr",
+                "station_id": "tayabasriverentr_td"
+            },
+            {
+                "lat": 9.9,
+                "url": "/td/tayanankangbangyoisland_td/",
+                "lng": 125.9,
+                "verbose_name": "Tayanan, Kangbangyo Island",
+                "station_id": "tayanankangbangyoisland_td"
+            },
+            {
+                "lat": 10.8333,
+                "url": "/td/taytay_td/",
+                "lng": 119.5167,
+                "verbose_name": "Taytay",
+                "station_id": "taytay_td"
+            },
+            {
+                "lat": 11.2833,
+                "url": "/td/tibiao_td/",
+                "lng": 122.0333,
+                "verbose_name": "Tibiao",
+                "station_id": "tibiao_td"
+            },
+            {
+                "lat": 7.75,
+                "url": "/td/ticauanpointsibugueybay_td/",
+                "lng": 122.7333,
+                "verbose_name": "Ticauan Point, Sibuguey Bay",
+                "station_id": "ticauanpointsibugueybay_td"
+            },
+            {
+                "lat": 10.0667,
+                "url": "/td/tinitiangreenislandbay_td/",
+                "lng": 119.2,
+                "verbose_name": "Tinitian, Green Island Bay",
+                "station_id": "tinitiangreenislandbay_td"
+            },
+            {
+                "lat": 13.3167,
+                "url": "/td/torrijos_td/",
+                "lng": 122.0833,
+                "verbose_name": "Torrijos",
+                "station_id": "torrijos_td"
+            },
+            {
+                "lat": 9.95,
+                "url": "/td/tubigon_td/",
+                "lng": 123.9667,
+                "verbose_name": "Tubigon",
+                "station_id": "tubigon_td"
+            },
+            {
+                "lat": 10.7333,
+                "url": "/td/tuburan_td/",
+                "lng": 123.8167,
+                "verbose_name": "Tuburan",
+                "station_id": "tuburan_td"
+            },
+            {
+                "lat": 9.4833,
+                "url": "/td/tugaspoint_td/",
+                "lng": 125.95,
+                "verbose_name": "Tugas Point",
+                "station_id": "tugaspoint_td"
+            },
+            {
+                "lat": 6.0167,
+                "url": "/td/tulayanisland_td/",
+                "lng": 121.3167,
+                "verbose_name": "Tulayan Island",
+                "station_id": "tulayanisland_td"
+            },
+            {
+                "lat": 4.7833,
+                "url": "/td/tumindaochannel_td/",
+                "lng": 119.4167,
+                "verbose_name": "Tumindao Channel",
+                "station_id": "tumindaochannel_td"
+            },
+            {
+                "lat": 11.3667,
+                "url": "/td/ubanpointsanjuanicostr_td/",
+                "lng": 124.9833,
+                "verbose_name": "Uban Point, San Juanico Str",
+                "station_id": "ubanpointsanjuanicostr_td"
+            },
+            {
+                "lat": 10.0667,
+                "url": "/td/ubay_td/",
+                "lng": 124.4667,
+                "verbose_name": "Ubay",
+                "station_id": "ubay_td"
+            },
+            {
+                "lat": 10.1,
+                "url": "/td/uluganbay_td/",
+                "lng": 118.7833,
+                "verbose_name": "Ulugan Bay",
+                "station_id": "uluganbay_td"
+            },
+            {
+                "lat": 15.2,
+                "url": "/td/umirayriverentrdingalanbay_td/",
+                "lng": 121.4333,
+                "verbose_name": "Umiray River Entr, Dingalan Bay",
+                "station_id": "umirayriverentrdingalanbay_td"
+            },
+            {
+                "lat": 13.5833,
+                "url": "/td/viraccatanduancesisland_td/",
+                "lng": 124.2333,
+                "verbose_name": "Virac, Catanduances Island",
+                "station_id": "viraccatanduancesisland_td"
+            },
+            {
+                "lat": 6.9,
+                "url": "/td/zamboanga_td/",
+                "lng": 122.0667,
+                "verbose_name": "Zamboanga",
+                "station_id": "zamboanga_td"
+            }
+        ],
+        "type": "td",
+        "icon": "http://nababaha.appspot.com/static/img/yellow.png"
+    }
+]

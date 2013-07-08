@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+html(lang='en', ng-app)
+    head
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        title DOST Nationwide Operational Assessment of Hazards
+        
+        link(href='../lib/bootstrap/css/bootstrap.css', rel='stylesheet')
+        link(href='../lib/bootstrap/css/bootstrap-responsive.css', rel='stylesheet')
+        link(href='../lib/leaflet/leaflet.css', rel='stylesheet')
+        link(href='../static/css/styles.css', rel='stylesheet')
+            
+    body
+        div(class='navbar navbar-inverse')
+            .navbar-inner
+                .container
+                    a(class='btn btn-navbar', data-toggle='collapse', data-target='.nav-collapse')
+                        span.icon-bar
+                        span.icon-bar
+                        span.icon-bar
+                            
+                        a.brand(href='/', style='font-size: 16px;')
+                            | <img id="logo" src="../static/images/dost.png" %}"/> DOST Nationwide Operational Assessment of Hazards
+                            
+                        p#counter(class='navbar-text pull-right' style='font-size: 30;')  lels
+                
+        .container-fluid
+            .row-fluid
+                .span12
+                    #map
+                            
+        script(src='../lib/bootstrap/js/bootstrap.min.js')
+        script(src='../lib/leaflet/leaflet.js')
+        script(src='../lib/jquery-1.9.1.js')
+        script(src='../lib/angular/angular.js')
+        
+        script
+            var map = L.map('map').setView([12.4, 123], 6);
+            var osmURL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+            var osmAttrib = '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+            L.tileLayer(osmURL, {maxZoom: 12, minZoom: 4, attribution: osmAttrib}).addTo(map);
+

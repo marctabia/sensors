@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en" ng-app>
+    <head>
+        <meta charset="utf-8">
+        <title>Kickstart</title>
+        <link rel="stylesheet" href="css/app.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/kickstart.css">
+        <link rel="stylesheet" href="css/bootstrap.flatten.css">
+        <script src="lib/angular/angular.js"></script>
+        <script src="js/controllers.js"></script>
+    </head>
+
+    <body>
+      
+      <div id="header" class="row-fluid">
+        <h1>Organize</h1>
+        <h3>Human-backed photo organizing</h3> 
+      </div>
+
+      <div id="body" class="row-fluid">
+        <div class="span9">
+
+          <div class="row-fluid" id="desc">
+            <h2>Get organized.</h2>
+            <p>We organize your photos based on what you want</p>
+            <h2>Organize everywhere.</h2>
+            <p>Organize is linked to all cloud platforms such as Dropbox</p>
+            <h2>Share it.</h2>
+            <p>Organize arranges your best photos in easily shareable galleries</p>
+          </div>
+          
+          <div class="row-fluid">
+            <div id="commentList" ng-controller="CommentListCtrl">
+              <form ng-submit="addComment()">
+                <textarea ng-model="commentText" rows="5" cols="100" placeholder="Enter comment here" required> </textarea>
+                <br>
+                <input id="add_comment" class="btn-primary" type="submit" value="Submit">
+              </form>
+              <h1> Comments </h1>
+              <ul> <li ng-repeat="comment in comments"> {{ comment.text }}</li> </ul>
+            </div>
+          </div>
+
+        </div> 
+        <div id="donors" class="span3" ng-controller="DonorListCtrl">
+            <div id="totalDonate">
+              <h1> {{ donations | currency }} </h1>
+              pledged of {{ 1000000.00 | currency }} goal
+            </div>
+            <div id="donorform">
+              <h2>Help us out!</h2>
+              <form name="donorform" ng-submit="addDonor()">
+                Name: <input type="text" ng-model="donorName" placeholder="Put name here" required>
+                <br>
+                Amount: <input type="number" ng-model="donorAmount" name="amount" placeholder="Put amount here" min="0" required>
+                <span ng-show="donorform.amount.$error.number || donorform.amount.$error.min"> This is not a valid amount! </span>
+                <br>
+                <input class="btn-primary" id="donor_add" type="submit" ng-disabled="donorform.$invalid" value="Add">
+              </form>
+            </div>
+            <div class="donor_list">
+              <h1> Donors </h1>
+              <ul>
+                <li ng-repeat="donor in donors"> Donor name: {{ donor.name }} <br> Amount: {{ donor.amount | currency }}</li>
+              </ul>
+            </div>
+        </div>
+       </div> 
+       
+    </body>
+</html>
